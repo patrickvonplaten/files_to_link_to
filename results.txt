@@ -1,0 +1,2274 @@
+
+0: Summary for DeepPavlov/bert-base-bg-cs-pl-ru-cased
+--------------------------------------------------
+TODO_1: In DeepPavlov/bert-base-bg-cs-pl-ru-cased the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/bert-base-bg-cs-pl-ru-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/bert-base-bg-cs-pl-ru-cased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/bert-base-bg-cs-pl-ru-cased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+1: Summary for DeepPavlov/bert-base-cased-conversational
+--------------------------------------------------
+TODO_1: In DeepPavlov/bert-base-cased-conversational the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/bert-base-cased-conversational eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/bert-base-cased-conversational!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/bert-base-cased-conversational!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+2: Summary for DeepPavlov/bert-base-multilingual-cased-sentence
+--------------------------------------------------
+TODO_1: In DeepPavlov/bert-base-multilingual-cased-sentence the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/bert-base-multilingual-cased-sentence eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/bert-base-multilingual-cased-sentence!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/bert-base-multilingual-cased-sentence!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+3: Summary for DeepPavlov/rubert-base-cased-conversational
+--------------------------------------------------
+TODO_1: In DeepPavlov/rubert-base-cased-conversational the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/rubert-base-cased-conversational eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased-conversational!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased-conversational!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+4: Summary for DeepPavlov/rubert-base-cased-sentence
+--------------------------------------------------
+TODO_1: In DeepPavlov/rubert-base-cased-sentence the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/rubert-base-cased-sentence eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased-sentence!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased-sentence!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+5: Summary for DeepPavlov/rubert-base-cased
+--------------------------------------------------
+TODO_1: In DeepPavlov/rubert-base-cased the eos_token_ids has to be removed
+TODO_2: In DeepPavlov/rubert-base-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for DeepPavlov/rubert-base-cased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+6: Summary for KB/albert-base-swedish-cased-alpha
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+7: Summary for KB/bert-base-swedish-cased-ner
+--------------------------------------------------
+TODO_1: In KB/bert-base-swedish-cased-ner the eos_token_ids has to be removed
+TODO_2: In KB/bert-base-swedish-cased-ner eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased-ner!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased-ner!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+8: Summary for KB/bert-base-swedish-cased
+--------------------------------------------------
+TODO_1: In KB/bert-base-swedish-cased the eos_token_ids has to be removed
+TODO_2: In KB/bert-base-swedish-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+9: Summary for Musixmatch/umberto-commoncrawl-cased-v1
+--------------------------------------------------
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for Musixmatch/umberto-commoncrawl-cased-v1!
+EOS in Tokenizer: 6 |EOS in Config: 2
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for Musixmatch/umberto-commoncrawl-cased-v1!
+BOS in Tokenizer: 5 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+10: Summary for Musixmatch/umberto-wikipedia-uncased-v1
+--------------------------------------------------
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for Musixmatch/umberto-wikipedia-uncased-v1!
+EOS in Tokenizer: 6 |EOS in Config: 2
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for Musixmatch/umberto-wikipedia-uncased-v1!
+BOS in Tokenizer: 5 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+11: Summary for ahotrod/albert_xxlargev1_squad2_512
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+12: Summary for ahotrod/xlnet_large_squad2_512
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+13: Summary for allenai/scibert_scivocab_cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+14: Summary for allenai/scibert_scivocab_uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+15: Summary for asafaya/bert-base-arabic
+--------------------------------------------------
+TODO_1: In asafaya/bert-base-arabic the eos_token_ids has to be removed
+TODO_2: In asafaya/bert-base-arabic eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for asafaya/bert-base-arabic!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for asafaya/bert-base-arabic!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+16: Summary for aubmindlab/bert-base-arabert
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for aubmindlab/bert-base-arabert!
+PAD in Tokenizer: 29757 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+17: Summary for aubmindlab/bert-base-arabertv01
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for aubmindlab/bert-base-arabertv01!
+PAD in Tokenizer: 17029 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+18: Summary for bert-base-german-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+19: Summary for binwang/xlnet-base-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+20: Summary for camembert-base
+--------------------------------------------------
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for camembert-base!
+EOS in Tokenizer: 6 |EOS in Config: 2
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for camembert-base!
+BOS in Tokenizer: 5 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+21: Summary for canwenxu/BERT-of-Theseus-MNLI
+--------------------------------------------------
+TODO_1: In canwenxu/BERT-of-Theseus-MNLI the eos_token_ids has to be removed
+TODO_2: In canwenxu/BERT-of-Theseus-MNLI eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for canwenxu/BERT-of-Theseus-MNLI!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for canwenxu/BERT-of-Theseus-MNLI!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+22: Summary for clue/albert_chinese_small
+--------------------------------------------------
+ERROR: clue/albert_chinese_small config or tokenizer can not be loaded
+==================================================
+
+23: Summary for clue/albert_chinese_tiny
+--------------------------------------------------
+ERROR: clue/albert_chinese_tiny config or tokenizer can not be loaded
+==================================================
+
+24: Summary for clue/roberta_chinese_3L312_clue_tiny
+--------------------------------------------------
+ERROR: clue/roberta_chinese_3L312_clue_tiny config or tokenizer can not be loaded
+==================================================
+
+25: Summary for clue/roberta_chinese_base
+--------------------------------------------------
+ERROR: clue/roberta_chinese_base config or tokenizer can not be loaded
+==================================================
+
+26: Summary for dbmdz/bert-base-german-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+27: Summary for dbmdz/bert-base-german-europeana-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+28: Summary for dbmdz/bert-base-german-europeana-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+29: Summary for dbmdz/bert-base-german-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+30: Summary for dbmdz/bert-base-italian-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+31: Summary for dbmdz/bert-base-italian-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+32: Summary for dbmdz/bert-base-italian-xxl-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+33: Summary for dbmdz/bert-base-italian-xxl-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+34: Summary for dbmdz/bert-base-turkish-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+35: Summary for dbmdz/distilbert-base-turkish-cased
+--------------------------------------------------
+TODO_1: In dbmdz/distilbert-base-turkish-cased the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for dbmdz/distilbert-base-turkish-cased!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+36: Summary for deepset/roberta-base-squad2
+--------------------------------------------------
+TODO_1: In deepset/roberta-base-squad2 the eos_token_ids has to be removed
+TODO_2: In deepset/roberta-base-squad2 eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for deepset/roberta-base-squad2!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for deepset/roberta-base-squad2!
+EOS in Tokenizer: 2 |EOS in Config: 0
+--------------------------------------------------
+==================================================
+
+37: Summary for deepset/sentence_bert
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+38: Summary for djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12
+--------------------------------------------------
+ERROR: djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12 config or tokenizer can not be loaded
+==================================================
+
+39: Summary for dkleczek/bert-base-polish-uncased-v1
+--------------------------------------------------
+TODO_1: In dkleczek/bert-base-polish-uncased-v1 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for dkleczek/bert-base-polish-uncased-v1!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+40: Summary for emilyalsentzer/Bio_ClinicalBERT
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+41: Summary for emilyalsentzer/Bio_Discharge_Summary_BERT
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+42: Summary for fmikaelian/camembert-base-fquad
+--------------------------------------------------
+TODO_1: In fmikaelian/camembert-base-fquad the eos_token_ids has to be removed
+TODO_2: In fmikaelian/camembert-base-fquad eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for fmikaelian/camembert-base-fquad!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for fmikaelian/camembert-base-fquad!
+EOS in Tokenizer: 6 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for fmikaelian/camembert-base-fquad!
+BOS in Tokenizer: 5 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+43: Summary for fmikaelian/camembert-base-squad
+--------------------------------------------------
+TODO_1: In fmikaelian/camembert-base-squad the eos_token_ids has to be removed
+TODO_2: In fmikaelian/camembert-base-squad eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for fmikaelian/camembert-base-squad!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for fmikaelian/camembert-base-squad!
+EOS in Tokenizer: 6 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for fmikaelian/camembert-base-squad!
+BOS in Tokenizer: 5 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+44: Summary for fmikaelian/flaubert-base-uncased-squad
+--------------------------------------------------
+TODO_1: In fmikaelian/flaubert-base-uncased-squad the eos_token_ids has to be removed
+TODO_2: In fmikaelian/flaubert-base-uncased-squad eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for fmikaelian/flaubert-base-uncased-squad!
+PAD in Tokenizer: 2 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for fmikaelian/flaubert-base-uncased-squad!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+==================================================
+
+45: Summary for google/bert_uncased_L-10_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+46: Summary for google/bert_uncased_L-10_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+47: Summary for google/bert_uncased_L-10_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+48: Summary for google/bert_uncased_L-10_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+49: Summary for google/bert_uncased_L-12_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+50: Summary for google/bert_uncased_L-12_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+51: Summary for google/bert_uncased_L-12_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+52: Summary for google/bert_uncased_L-12_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+53: Summary for google/bert_uncased_L-2_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+54: Summary for google/bert_uncased_L-2_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+55: Summary for google/bert_uncased_L-2_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+56: Summary for google/bert_uncased_L-2_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+57: Summary for google/bert_uncased_L-4_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+58: Summary for google/bert_uncased_L-4_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+59: Summary for google/bert_uncased_L-4_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+60: Summary for google/bert_uncased_L-4_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+61: Summary for google/bert_uncased_L-6_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+62: Summary for google/bert_uncased_L-6_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+63: Summary for google/bert_uncased_L-6_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+64: Summary for google/bert_uncased_L-6_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+65: Summary for google/bert_uncased_L-8_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+66: Summary for google/bert_uncased_L-8_H-256_A-4
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+67: Summary for google/bert_uncased_L-8_H-512_A-8
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+68: Summary for google/bert_uncased_L-8_H-768_A-12
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+69: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad2
+--------------------------------------------------
+TODO_1: In henryk/bert-base-multilingual-cased-finetuned-dutch-squad2 the eos_token_ids has to be removed
+TODO_2: In henryk/bert-base-multilingual-cased-finetuned-dutch-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for henryk/bert-base-multilingual-cased-finetuned-dutch-squad2!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for henryk/bert-base-multilingual-cased-finetuned-dutch-squad2!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+70: Summary for huggingface/CodeBERTa-language-id
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+71: Summary for huggingface/CodeBERTa-small-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+72: Summary for iuliaturc/bert_uncased_L-2_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+73: Summary for jannesg/bertsson
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+74: Summary for jplu/tf-camembert-base
+--------------------------------------------------
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for jplu/tf-camembert-base!
+EOS in Tokenizer: 6 |EOS in Config: 2
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for jplu/tf-camembert-base!
+BOS in Tokenizer: 5 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+75: Summary for jplu/tf-xlm-roberta-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+76: Summary for jplu/tf-xlm-roberta-large
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+77: Summary for julien-c/EsperBERTo-small-pos
+--------------------------------------------------
+TODO_1: In julien-c/EsperBERTo-small-pos the eos_token_ids has to be removed
+TODO_2: In julien-c/EsperBERTo-small-pos eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for julien-c/EsperBERTo-small-pos!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for julien-c/EsperBERTo-small-pos!
+EOS in Tokenizer: 2 |EOS in Config: 0
+--------------------------------------------------
+==================================================
+
+78: Summary for julien-c/EsperBERTo-small
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+79: Summary for julien-c/bert-xsmall-dummy
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+80: Summary for julien-c/dummy-unknown
+--------------------------------------------------
+TODO_1: In julien-c/dummy-unknown the eos_token_ids has to be removed
+TODO_2: In julien-c/dummy-unknown eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for julien-c/dummy-unknown!
+PAD in Tokenizer: 19 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for julien-c/dummy-unknown!
+EOS in Tokenizer: 19 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for julien-c/dummy-unknown!
+BOS in Tokenizer: 19 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+81: Summary for lvwerra/gpt2-medium-taboo
+--------------------------------------------------
+TODO_1: In lvwerra/gpt2-medium-taboo the eos_token_ids has to be removed
+TODO_2: In lvwerra/gpt2-medium-taboo eos_token_ids is 0 but default eos_token_id is 50256 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for lvwerra/gpt2-medium-taboo!
+PAD in Tokenizer: None | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for lvwerra/gpt2-medium-taboo!
+EOS in Tokenizer: 50256 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for lvwerra/gpt2-medium-taboo!
+BOS in Tokenizer: 50256 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+82: Summary for lysandre/arxiv-nlp
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+83: Summary for lysandre/arxiv
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+84: Summary for microsoft/DialoGPT-large
+--------------------------------------------------
+TODO_1: In microsoft/DialoGPT-large the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for microsoft/DialoGPT-large!
+PAD in Tokenizer: None | PAD in Config: 50256
+--------------------------------------------------
+==================================================
+
+85: Summary for microsoft/DialoGPT-medium
+--------------------------------------------------
+TODO_1: In microsoft/DialoGPT-medium the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for microsoft/DialoGPT-medium!
+PAD in Tokenizer: None | PAD in Config: 50256
+--------------------------------------------------
+==================================================
+
+86: Summary for microsoft/DialoGPT-small
+--------------------------------------------------
+TODO_1: In microsoft/DialoGPT-small the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for microsoft/DialoGPT-small!
+PAD in Tokenizer: None | PAD in Config: 50256
+--------------------------------------------------
+==================================================
+
+87: Summary for mrm8488/CodeBERTaPy
+--------------------------------------------------
+TODO_1: In mrm8488/CodeBERTaPy the eos_token_ids has to be removed
+TODO_2: In mrm8488/CodeBERTaPy eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/CodeBERTaPy!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/CodeBERTaPy!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/CodeBERTaPy!
+BOS in Tokenizer: 0 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+88: Summary for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
+--------------------------------------------------
+TODO_1: In mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es the eos_token_ids has to be removed
+TODO_2: In mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+89: Summary for mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp
+--------------------------------------------------
+TODO_1: In mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+90: Summary for mrm8488/bert-multi-cased-finetuned-xquadv1
+--------------------------------------------------
+TODO_1: In mrm8488/bert-multi-cased-finetuned-xquadv1 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-multi-cased-finetuned-xquadv1!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+91: Summary for mrm8488/bert-multi-uncased-finetuned-xquadv1
+--------------------------------------------------
+TODO_1: In mrm8488/bert-multi-uncased-finetuned-xquadv1 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-multi-uncased-finetuned-xquadv1!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+92: Summary for mrm8488/bert-spanish-cased-finetuned-ner
+--------------------------------------------------
+TODO_1: In mrm8488/bert-spanish-cased-finetuned-ner the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finetuned-ner!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+93: Summary for mrm8488/bert-spanish-cased-finetuned-pos
+--------------------------------------------------
+TODO_1: In mrm8488/bert-spanish-cased-finetuned-pos the eos_token_ids has to be removed
+TODO_2: In mrm8488/bert-spanish-cased-finetuned-pos eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finetuned-pos!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finetuned-pos!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finetuned-pos!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+94: Summary for mrm8488/bert-uncased-finetuned-qnli
+--------------------------------------------------
+ERROR: mrm8488/bert-uncased-finetuned-qnli config or tokenizer can not be loaded
+==================================================
+
+95: Summary for mrm8488/codeBERTaJS
+--------------------------------------------------
+TODO_1: In mrm8488/codeBERTaJS the eos_token_ids has to be removed
+TODO_2: In mrm8488/codeBERTaJS eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/codeBERTaJS!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/codeBERTaJS!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/codeBERTaJS!
+BOS in Tokenizer: 0 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+96: Summary for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
+--------------------------------------------------
+TODO_1: In mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es the eos_token_ids has to be removed
+TODO_2: In mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+97: Summary for mrm8488/spanbert-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/spanbert-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/spanbert-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+98: Summary for mrm8488/xlm-multi-finetuned-xquadv1
+--------------------------------------------------
+TODO_1: In mrm8488/xlm-multi-finetuned-xquadv1 the eos_token_ids has to be removed
+--------------------------------------------------
+==================================================
+
+99: Summary for nlpaueb/bert-base-greek-uncased-v1
+--------------------------------------------------
+TODO_1: In nlpaueb/bert-base-greek-uncased-v1 the eos_token_ids has to be removed
+TODO_2: In nlpaueb/bert-base-greek-uncased-v1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for nlpaueb/bert-base-greek-uncased-v1!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for nlpaueb/bert-base-greek-uncased-v1!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+100: Summary for nlptown/bert-base-multilingual-uncased-sentiment
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+101: Summary for severinsimmler/literary-german-bert
+--------------------------------------------------
+TODO_1: In severinsimmler/literary-german-bert the eos_token_ids has to be removed
+TODO_2: In severinsimmler/literary-german-bert eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for severinsimmler/literary-german-bert!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for severinsimmler/literary-german-bert!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+102: Summary for twmkn9/albert-base-v2-squad2
+--------------------------------------------------
+TODO_1: In twmkn9/albert-base-v2-squad2 the eos_token_ids has to be removed
+TODO_2: In twmkn9/albert-base-v2-squad2 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for twmkn9/albert-base-v2-squad2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for twmkn9/albert-base-v2-squad2!
+EOS in Tokenizer: 3 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for twmkn9/albert-base-v2-squad2!
+BOS in Tokenizer: 2 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+103: Summary for voidful/albert_chinese_base
+--------------------------------------------------
+ERROR: voidful/albert_chinese_base config or tokenizer can not be loaded
+==================================================
+
+104: Summary for voidful/albert_chinese_large
+--------------------------------------------------
+ERROR: voidful/albert_chinese_large config or tokenizer can not be loaded
+==================================================
+
+105: Summary for voidful/albert_chinese_small
+--------------------------------------------------
+ERROR: voidful/albert_chinese_small config or tokenizer can not be loaded
+==================================================
+
+106: Summary for voidful/albert_chinese_tiny
+--------------------------------------------------
+ERROR: voidful/albert_chinese_tiny config or tokenizer can not be loaded
+==================================================
+
+107: Summary for voidful/albert_chinese_xlarge
+--------------------------------------------------
+ERROR: voidful/albert_chinese_xlarge config or tokenizer can not be loaded
+==================================================
+
+108: Summary for voidful/albert_chinese_xxlarge
+--------------------------------------------------
+ERROR: voidful/albert_chinese_xxlarge config or tokenizer can not be loaded
+==================================================
+
+109: Summary for DrMatters/rubert_cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+110: Summary for Itcast/bert-base-cnc
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+111: Summary for Itcast/cnc_output
+--------------------------------------------------
+ERROR: Itcast/cnc_output config or tokenizer can not be loaded
+==================================================
+
+112: Summary for ItcastAI/bert_cn_finetuning
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+113: Summary for ItcastAI/bert_finetuning_test
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+114: Summary for KB/albert-base-v2-ner
+--------------------------------------------------
+TODO_1: In KB/albert-base-v2-ner the eos_token_ids has to be removed
+TODO_2: In KB/albert-base-v2-ner eos_token_ids is 0 but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/albert-base-v2-ner!
+EOS in Tokenizer: 3 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/albert-base-v2-ner!
+BOS in Tokenizer: 2 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+115: Summary for KB/albert-large-v2-ner
+--------------------------------------------------
+TODO_1: In KB/albert-large-v2-ner the eos_token_ids has to be removed
+TODO_2: In KB/albert-large-v2-ner eos_token_ids is 0 but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/albert-large-v2-ner!
+EOS in Tokenizer: 3 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/albert-large-v2-ner!
+BOS in Tokenizer: 2 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+116: Summary for KB/albert-xlarge-v2-ner
+--------------------------------------------------
+TODO_1: In KB/albert-xlarge-v2-ner the eos_token_ids has to be removed
+TODO_2: In KB/albert-xlarge-v2-ner eos_token_ids is 0 but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/albert-xlarge-v2-ner!
+EOS in Tokenizer: 3 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/albert-xlarge-v2-ner!
+BOS in Tokenizer: 2 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+117: Summary for KB/bert-base-swedish-cased-alpha
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+118: Summary for KB/bert-base-swedish-cased-neriob
+--------------------------------------------------
+TODO_1: In KB/bert-base-swedish-cased-neriob the eos_token_ids has to be removed
+TODO_2: In KB/bert-base-swedish-cased-neriob eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased-neriob!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for KB/bert-base-swedish-cased-neriob!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+119: Summary for Narsil/fr_pretrained
+--------------------------------------------------
+ERROR: Narsil/fr_pretrained config or tokenizer can not be loaded
+==================================================
+
+120: Summary for Narsil/pretrained
+--------------------------------------------------
+ERROR: Narsil/pretrained config or tokenizer can not be loaded
+==================================================
+
+121: Summary for Narsil/pretrained2
+--------------------------------------------------
+ERROR: Narsil/pretrained2 config or tokenizer can not be loaded
+==================================================
+
+122: Summary for SpanBERT/spanbert-base-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+123: Summary for SpanBERT/spanbert-large-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+124: Summary for TurkuNLP/bert-base-finnish-cased-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+125: Summary for TurkuNLP/bert-base-finnish-uncased-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+126: Summary for absa/bert-lapt-0.1
+--------------------------------------------------
+TODO_1: In absa/bert-lapt-0.1 the eos_token_ids has to be removed
+TODO_2: In absa/bert-lapt-0.1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for absa/bert-lapt-0.1!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for absa/bert-lapt-0.1!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+127: Summary for absa/bert-rest-0.1
+--------------------------------------------------
+TODO_1: In absa/bert-rest-0.1 the eos_token_ids has to be removed
+TODO_2: In absa/bert-rest-0.1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for absa/bert-rest-0.1!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for absa/bert-rest-0.1!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+128: Summary for absa/bert-rest-lapt-0.1
+--------------------------------------------------
+TODO_1: In absa/bert-rest-lapt-0.1 the eos_token_ids has to be removed
+TODO_2: In absa/bert-rest-lapt-0.1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for absa/bert-rest-lapt-0.1!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for absa/bert-rest-lapt-0.1!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+129: Summary for absa/classifier-rest-0.1
+--------------------------------------------------
+TODO_1: In absa/classifier-rest-0.1 the eos_token_ids has to be removed
+TODO_2: In absa/classifier-rest-0.1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for absa/classifier-rest-0.1!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for absa/classifier-rest-0.1!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+130: Summary for acamara
+--------------------------------------------------
+ERROR: acamara config or tokenizer can not be loaded
+==================================================
+
+131: Summary for adamlin/ClinicalBert_all_notes
+--------------------------------------------------
+ERROR: adamlin/ClinicalBert_all_notes config or tokenizer can not be loaded
+==================================================
+
+132: Summary for adamlin/ClinicalBert_disch
+--------------------------------------------------
+ERROR: adamlin/ClinicalBert_disch config or tokenizer can not be loaded
+==================================================
+
+133: Summary for adamlin/NCBI_BERT_pubmed_mimic_uncased_base_transformers
+--------------------------------------------------
+ERROR: adamlin/NCBI_BERT_pubmed_mimic_uncased_base_transformers config or tokenizer can not be loaded
+==================================================
+
+134: Summary for adamlin/NCBI_BERT_pubmed_mimic_uncased_large_transformers
+--------------------------------------------------
+ERROR: adamlin/NCBI_BERT_pubmed_mimic_uncased_large_transformers config or tokenizer can not be loaded
+==================================================
+
+135: Summary for adamlin/bert-distil-chinese
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+136: Summary for af-ai-center/bert-base-swedish-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+137: Summary for af-ai-center/bert-large-swedish-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+138: Summary for albert-base
+--------------------------------------------------
+ERROR: albert-base config or tokenizer can not be loaded
+==================================================
+
+139: Summary for albert-base-v2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+140: Summary for albert-large
+--------------------------------------------------
+ERROR: albert-large config or tokenizer can not be loaded
+==================================================
+
+141: Summary for albert-large-v2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+142: Summary for albert-xlarge
+--------------------------------------------------
+ERROR: albert-xlarge config or tokenizer can not be loaded
+==================================================
+
+143: Summary for albert-xlarge-v2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+144: Summary for albert-xxlarge
+--------------------------------------------------
+ERROR: albert-xxlarge config or tokenizer can not be loaded
+==================================================
+
+145: Summary for albert-xxlarge-v2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+146: Summary for bert-base-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+147: Summary for bert-base-cased-finetuned-mrpc
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+148: Summary for bert-base-chinese
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+149: Summary for bert-base-german-dbmdz-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+150: Summary for bert-base-german-dbmdz-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+151: Summary for bert-base-multilingual-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+152: Summary for bert-base-multilingual-cased-finetuned-conll03-dutch
+--------------------------------------------------
+ERROR: bert-base-multilingual-cased-finetuned-conll03-dutch config or tokenizer can not be loaded
+==================================================
+
+153: Summary for bert-base-multilingual-cased-finetuned-conll03-spanish
+--------------------------------------------------
+ERROR: bert-base-multilingual-cased-finetuned-conll03-spanish config or tokenizer can not be loaded
+==================================================
+
+154: Summary for bert-base-multilingual-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+155: Summary for bert-base-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+156: Summary for bert-large-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+157: Summary for bert-large-cased-whole-word-masking
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+158: Summary for bert-large-cased-whole-word-masking-finetuned-squad
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+159: Summary for bert-large-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+160: Summary for bert-large-uncased-whole-word-masking
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+161: Summary for bert-large-uncased-whole-word-masking-finetuned-squad
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+162: Summary for binwang/bert-base-nli-stsb
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+163: Summary for binwang/bert-base-nli
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+164: Summary for binwang/bert-base-uncased
+--------------------------------------------------
+TODO_1: In binwang/bert-base-uncased the eos_token_ids has to be removed
+TODO_2: In binwang/bert-base-uncased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for binwang/bert-base-uncased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for binwang/bert-base-uncased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+165: Summary for binwang/bert-large-nli-stsb
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+166: Summary for binwang/bert-large-nli
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+167: Summary for binwang/roberta-base
+--------------------------------------------------
+TODO_1: In binwang/roberta-base the eos_token_ids has to be removed
+TODO_2: In binwang/roberta-base eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for binwang/roberta-base!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for binwang/roberta-base!
+EOS in Tokenizer: 2 |EOS in Config: 0
+--------------------------------------------------
+==================================================
+
+168: Summary for bert-base-japanese-char
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+169: Summary for bert-base-japanese-char-whole-word-masking
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+170: Summary for bert-base-japanese
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+171: Summary for bert-base-japanese-whole-word-masking
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+172: Summary for clue/roberta_chinese_3L768_clue_tiny
+--------------------------------------------------
+ERROR: clue/roberta_chinese_3L768_clue_tiny config or tokenizer can not be loaded
+==================================================
+
+173: Summary for clue/roberta_chinese_clue_large
+--------------------------------------------------
+ERROR: clue/roberta_chinese_clue_large config or tokenizer can not be loaded
+==================================================
+
+174: Summary for clue/roberta_chinese_clue_tiny
+--------------------------------------------------
+ERROR: clue/roberta_chinese_clue_tiny config or tokenizer can not be loaded
+==================================================
+
+175: Summary for clue/roberta_chinese_large
+--------------------------------------------------
+ERROR: clue/roberta_chinese_large config or tokenizer can not be loaded
+==================================================
+
+176: Summary for clue/roberta_chinese_pair_large
+--------------------------------------------------
+ERROR: clue/roberta_chinese_pair_large config or tokenizer can not be loaded
+==================================================
+
+177: Summary for clue/roberta_chinese_pair_tiny
+--------------------------------------------------
+ERROR: clue/roberta_chinese_pair_tiny config or tokenizer can not be loaded
+==================================================
+
+178: Summary for clue/xlnet_chinese_large
+--------------------------------------------------
+TODO_1: In clue/xlnet_chinese_large the eos_token_ids has to be removed
+TODO_2: In clue/xlnet_chinese_large eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for clue/xlnet_chinese_large!
+PAD in Tokenizer: 5 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for clue/xlnet_chinese_large!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for clue/xlnet_chinese_large!
+BOS in Tokenizer: 1 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+179: Summary for dbmdz/bert-base-cased-finetuned-conll03-english
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+180: Summary for dbmdz/bert-large-cased-finetuned-conll03-english
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+181: Summary for dccuchile/bert-base-spanish-wwm-cased
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for dccuchile/bert-base-spanish-wwm-cased!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+182: Summary for dccuchile/bert-base-spanish-wwm-uncased
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for dccuchile/bert-base-spanish-wwm-uncased!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+183: Summary for dccuchile/cased
+--------------------------------------------------
+ERROR: dccuchile/cased config or tokenizer can not be loaded
+==================================================
+
+184: Summary for dccuchile/uncased
+--------------------------------------------------
+ERROR: dccuchile/uncased config or tokenizer can not be loaded
+==================================================
+
+185: Summary for deepset/bert-base-cased-squad2
+--------------------------------------------------
+TODO_1: In deepset/bert-base-cased-squad2 the eos_token_ids has to be removed
+TODO_2: In deepset/bert-base-cased-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for deepset/bert-base-cased-squad2!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for deepset/bert-base-cased-squad2!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+186: Summary for deepset/bert-base-german-cased-hatespeech-GermEval18Coarse
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+187: Summary for deepset/bert-large-uncased-whole-word-masking-squad2
+--------------------------------------------------
+TODO_1: In deepset/bert-large-uncased-whole-word-masking-squad2 the eos_token_ids has to be removed
+TODO_2: In deepset/bert-large-uncased-whole-word-masking-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for deepset/bert-large-uncased-whole-word-masking-squad2!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for deepset/bert-large-uncased-whole-word-masking-squad2!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+188: Summary for denpa92/bert-base-cantonese
+--------------------------------------------------
+ERROR: denpa92/bert-base-cantonese config or tokenizer can not be loaded
+==================================================
+
+189: Summary for distilbert-base-cased
+--------------------------------------------------
+TODO_1: In distilbert-base-cased the eos_token_ids has to be removed
+TODO_2: In distilbert-base-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for distilbert-base-cased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for distilbert-base-cased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+190: Summary for distilbert-base-cased-distilled-squad
+--------------------------------------------------
+TODO_1: In distilbert-base-cased-distilled-squad the eos_token_ids has to be removed
+TODO_2: In distilbert-base-cased-distilled-squad eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for distilbert-base-cased-distilled-squad!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for distilbert-base-cased-distilled-squad!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+191: Summary for distilbert-base-german-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+192: Summary for distilbert-base-multilingual-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+193: Summary for distilbert-base-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+194: Summary for distilbert-base-uncased-distilled-squad
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+195: Summary for distilbert-base-uncased-finetuned-sst-2-english
+--------------------------------------------------
+ERROR: distilbert-base-uncased-finetuned-sst-2-english config or tokenizer can not be loaded
+==================================================
+
+196: Summary for distilgpt2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+197: Summary for distilroberta-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+198: Summary for facebook/bart-large-cnn
+--------------------------------------------------
+ERROR: facebook/bart-large-cnn config or tokenizer can not be loaded
+==================================================
+
+199: Summary for facebook/bart-large-mnli
+--------------------------------------------------
+ERROR: facebook/bart-large-mnli config or tokenizer can not be loaded
+==================================================
+
+200: Summary for facebook/bart-large-xsum
+--------------------------------------------------
+ERROR: facebook/bart-large-xsum config or tokenizer can not be loaded
+==================================================
+
+201: Summary for facebook/bart-large
+--------------------------------------------------
+ERROR: facebook/bart-large config or tokenizer can not be loaded
+==================================================
+
+202: Summary for flaubert/flaubert_base_cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+203: Summary for flaubert/flaubert_base_uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+204: Summary for flaubert/flaubert_large_cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+205: Summary for flaubert/flaubert_small_cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+206: Summary for google/electra-base
+--------------------------------------------------
+ERROR: google/electra-base config or tokenizer can not be loaded
+==================================================
+
+207: Summary for google/electra-large
+--------------------------------------------------
+ERROR: google/electra-large config or tokenizer can not be loaded
+==================================================
+
+208: Summary for google/electra-small
+--------------------------------------------------
+ERROR: google/electra-small config or tokenizer can not be loaded
+==================================================
+
+209: Summary for gpt2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+210: Summary for gpt2-large
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+211: Summary for gpt2-medium
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+212: Summary for gpt2-xl
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+213: Summary for guolingqi/bert_base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+214: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+215: Summary for hfl/chinese-bert-wwm-ext
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+216: Summary for hfl/chinese-bert-wwm
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+217: Summary for hfl/chinese-roberta-wwm-ext-large
+--------------------------------------------------
+ERROR: hfl/chinese-roberta-wwm-ext-large config or tokenizer can not be loaded
+==================================================
+
+218: Summary for hfl/chinese-roberta-wwm-ext
+--------------------------------------------------
+ERROR: hfl/chinese-roberta-wwm-ext config or tokenizer can not be loaded
+==================================================
+
+219: Summary for hfl/chinese-xlnet-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+220: Summary for hfl/chinese-xlnet-mid
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+221: Summary for hfl/rbt3
+--------------------------------------------------
+ERROR: hfl/rbt3 config or tokenizer can not be loaded
+==================================================
+
+222: Summary for hfl/rbtl3
+--------------------------------------------------
+ERROR: hfl/rbtl3 config or tokenizer can not be loaded
+==================================================
+
+223: Summary for idb-ita/gilberto-uncased-from-camembert
+--------------------------------------------------
+TODO_1: In idb-ita/gilberto-uncased-from-camembert the eos_token_ids has to be removed
+TODO_2: In idb-ita/gilberto-uncased-from-camembert eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for idb-ita/gilberto-uncased-from-camembert!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for idb-ita/gilberto-uncased-from-camembert!
+EOS in Tokenizer: 6 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for idb-ita/gilberto-uncased-from-camembert!
+BOS in Tokenizer: 5 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+224: Summary for irvingpop/dreambank
+--------------------------------------------------
+TODO_1: In irvingpop/dreambank the eos_token_ids has to be removed
+TODO_2: In irvingpop/dreambank eos_token_ids is None but default eos_token_id is 50256 - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for irvingpop/dreambank!
+EOS in Tokenizer: 50256 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for irvingpop/dreambank!
+BOS in Tokenizer: 50256 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+225: Summary for ixa-ehu/berteus-base-cased
+--------------------------------------------------
+TODO_1: In ixa-ehu/berteus-base-cased the eos_token_ids has to be removed
+TODO_2: In ixa-ehu/berteus-base-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for ixa-ehu/berteus-base-cased!
+PAD in Tokenizer: 3 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for ixa-ehu/berteus-base-cased!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for ixa-ehu/berteus-base-cased!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+226: Summary for jplu/tf-flaubert-base-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+227: Summary for jplu/tf-flaubert-base-uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+228: Summary for jplu/tf-flaubert-large-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+229: Summary for jplu/tf-flaubert-small-cased
+--------------------------------------------------
+ERROR: jplu/tf-flaubert-small-cased config or tokenizer can not be loaded
+==================================================
+
+230: Summary for ktrapeznikov/albert-xlarge-v2-squad-v2
+--------------------------------------------------
+TODO_1: In ktrapeznikov/albert-xlarge-v2-squad-v2 the eos_token_ids has to be removed
+TODO_2: In ktrapeznikov/albert-xlarge-v2-squad-v2 eos_token_ids is 0 but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for ktrapeznikov/albert-xlarge-v2-squad-v2!
+EOS in Tokenizer: 3 |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for ktrapeznikov/albert-xlarge-v2-squad-v2!
+BOS in Tokenizer: 2 | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+231: Summary for lonePatient/albert_chinese_small
+--------------------------------------------------
+ERROR: lonePatient/albert_chinese_small config or tokenizer can not be loaded
+==================================================
+
+232: Summary for lonePatient/roberta_chinese_clue_tiny
+--------------------------------------------------
+ERROR: lonePatient/roberta_chinese_clue_tiny config or tokenizer can not be loaded
+==================================================
+
+233: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+234: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto
+--------------------------------------------------
+ERROR: m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto config or tokenizer can not be loaded
+==================================================
+
+235: Summary for marrrcin/PolBERTa-base-polish-cased-v1
+--------------------------------------------------
+TODO_1: In marrrcin/PolBERTa-base-polish-cased-v1 the eos_token_ids has to be removed
+TODO_2: In marrrcin/PolBERTa-base-polish-cased-v1 eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for marrrcin/PolBERTa-base-polish-cased-v1!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for marrrcin/PolBERTa-base-polish-cased-v1!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for marrrcin/PolBERTa-base-polish-cased-v1!
+BOS in Tokenizer: 0 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+236: Summary for mlm-100-1280
+--------------------------------------------------
+ERROR: mlm-100-1280 config or tokenizer can not be loaded
+==================================================
+
+237: Summary for mlm-17-1280
+--------------------------------------------------
+ERROR: mlm-17-1280 config or tokenizer can not be loaded
+==================================================
+
+238: Summary for monologg/biobert_v1.0_pubmed_pmc
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+239: Summary for monologg/biobert_v1.1_pubmed
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+240: Summary for monologg/distilkobert
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for monologg/distilkobert!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+241: Summary for monologg/kobert-lm
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for monologg/kobert-lm!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+242: Summary for monologg/kobert
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for monologg/kobert!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+243: Summary for monologg/scibert_scivocab_uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+244: Summary for mrm8488/bert-mini-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/bert-mini-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-mini-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+245: Summary for mrm8488/bert-small-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/bert-small-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-small-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+246: Summary for mrm8488/bert-spanish-cased-finedtuned-ner
+--------------------------------------------------
+TODO_1: In mrm8488/bert-spanish-cased-finedtuned-ner the eos_token_ids has to be removed
+TODO_2: In mrm8488/bert-spanish-cased-finedtuned-ner eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finedtuned-ner!
+PAD in Tokenizer: 1 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finedtuned-ner!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finedtuned-ner!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+247: Summary for mrm8488/bert-spanish-cased-finetuned-pos-16-tags
+--------------------------------------------------
+TODO_1: In mrm8488/bert-spanish-cased-finetuned-pos-16-tags the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-spanish-cased-finetuned-pos-16-tags!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+248: Summary for mrm8488/bert-tiny-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/bert-tiny-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-tiny-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+249: Summary for mrm8488/spanbert-finetuned-squadv1
+--------------------------------------------------
+TODO_1: In mrm8488/spanbert-finetuned-squadv1 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/spanbert-finetuned-squadv1!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+250: Summary for neuralmind/bert-base-portuguese-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+251: Summary for neuralmind/bert-large-portuguese-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+252: Summary for oda/music5
+--------------------------------------------------
+ERROR: oda/music5 config or tokenizer can not be loaded
+==================================================
+
+253: Summary for openai-gpt
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+254: Summary for pdelobelle/robBERT-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+255: Summary for pdelobelle/robBERT-dutch-books
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+256: Summary for pertschuk/albert-base-quora-classifier
+--------------------------------------------------
+ERROR: pertschuk/albert-base-quora-classifier config or tokenizer can not be loaded
+==================================================
+
+257: Summary for pertschuk/albert-base-squad-classifier-ms
+--------------------------------------------------
+ERROR: pertschuk/albert-base-squad-classifier-ms config or tokenizer can not be loaded
+==================================================
+
+258: Summary for pertschuk/albert-base-squad-classifier
+--------------------------------------------------
+ERROR: pertschuk/albert-base-squad-classifier config or tokenizer can not be loaded
+==================================================
+
+259: Summary for pertschuk/albert-large-intent-v2
+--------------------------------------------------
+TODO_1: In pertschuk/albert-large-intent-v2 the eos_token_ids has to be removed
+TODO_2: In pertschuk/albert-large-intent-v2 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for pertschuk/albert-large-intent-v2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for pertschuk/albert-large-intent-v2!
+EOS in Tokenizer: 3 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for pertschuk/albert-large-intent-v2!
+BOS in Tokenizer: 2 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+260: Summary for pertschuk/albert-large-intent-v3
+--------------------------------------------------
+TODO_1: In pertschuk/albert-large-intent-v3 the eos_token_ids has to be removed
+TODO_2: In pertschuk/albert-large-intent-v3 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for pertschuk/albert-large-intent-v3!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for pertschuk/albert-large-intent-v3!
+EOS in Tokenizer: 3 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for pertschuk/albert-large-intent-v3!
+BOS in Tokenizer: 2 | BOS in Config: None
+--------------------------------------------------
+==================================================
+
+261: Summary for pertschuk/bert-large-uncased-msmarco
+--------------------------------------------------
+TODO_1: In pertschuk/bert-large-uncased-msmarco the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for pertschuk/bert-large-uncased-msmarco!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+==================================================
+
+262: Summary for ponteineptique/latin-classical-small
+--------------------------------------------------
+TODO_1: In ponteineptique/latin-classical-small the eos_token_ids has to be removed
+TODO_2: In ponteineptique/latin-classical-small eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for ponteineptique/latin-classical-small!
+PAD in Tokenizer: 2 | PAD in Config: 0
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for ponteineptique/latin-classical-small!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+==================================================
+
+263: Summary for radha1258/save
+--------------------------------------------------
+ERROR: radha1258/save config or tokenizer can not be loaded
+==================================================
+
+264: Summary for bertabs-finetuned-cnndm-extractive-abstractive-summarization
+--------------------------------------------------
+ERROR: bertabs-finetuned-cnndm-extractive-abstractive-summarization config or tokenizer can not be loaded
+==================================================
+
+265: Summary for bertabs-finetuned-extractive-abstractive-summarization
+--------------------------------------------------
+ERROR: bertabs-finetuned-extractive-abstractive-summarization config or tokenizer can not be loaded
+==================================================
+
+266: Summary for bertabs-finetuned-xsum-extractive-abstractive-summarization
+--------------------------------------------------
+ERROR: bertabs-finetuned-xsum-extractive-abstractive-summarization config or tokenizer can not be loaded
+==================================================
+
+267: Summary for replydotai/albert-xxlarge-v1-finetuned-squad2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+268: Summary for roberta-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+269: Summary for roberta-base-openai-detector
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+270: Summary for roberta-large
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+271: Summary for roberta-large-mnli
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+272: Summary for roberta-large-openai-detector
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+273: Summary for severinsimmler/german-press-bert
+--------------------------------------------------
+TODO_1: In severinsimmler/german-press-bert the eos_token_ids has to be removed
+TODO_2: In severinsimmler/german-press-bert eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for severinsimmler/german-press-bert!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for severinsimmler/german-press-bert!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+==================================================
+
+274: Summary for srush/bert_uncased_L-2_H-128_A-2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+275: Summary for subbareddyiiit/iiit
+--------------------------------------------------
+ERROR: subbareddyiiit/iiit config or tokenizer can not be loaded
+==================================================
+
+276: Summary for subbareddyiiit/music_cog
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+277: Summary for subbareddyiiit/tftelugu
+--------------------------------------------------
+ERROR: subbareddyiiit/tftelugu config or tokenizer can not be loaded
+==================================================
+
+278: Summary for t5-11b
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+279: Summary for t5-3b
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+280: Summary for t5-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+281: Summary for t5-large
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+282: Summary for t5-small
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+283: Summary for transfo-xl-wt103
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+284: Summary for unilm-base-cased
+--------------------------------------------------
+ERROR: unilm-base-cased config or tokenizer can not be loaded
+==================================================
+
+285: Summary for unilm-large-cased
+--------------------------------------------------
+ERROR: unilm-large-cased config or tokenizer can not be loaded
+==================================================
+
+286: Summary for voidism/12to6_distilbert
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+287: Summary for wietsedv/bert-base-dutch-cased
+--------------------------------------------------
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for wietsedv/bert-base-dutch-cased!
+PAD in Tokenizer: 3 | PAD in Config: 0
+--------------------------------------------------
+==================================================
+
+288: Summary for xlm-clm-ende-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+289: Summary for xlm-clm-enfr-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+290: Summary for xlm-mlm-100-1280
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+291: Summary for xlm-mlm-17-1280
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+292: Summary for xlm-mlm-en-2048
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+293: Summary for xlm-mlm-ende-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+294: Summary for xlm-mlm-enfr-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+295: Summary for xlm-mlm-enro-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+296: Summary for xlm-mlm-tlm-xnli15-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+297: Summary for xlm-mlm-xnli15-1024
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+298: Summary for xlm-roberta-base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+299: Summary for xlm-roberta-large
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+300: Summary for xlm-roberta-large-finetuned-conll02-dutch
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+301: Summary for xlm-roberta-large-finetuned-conll02-spanish
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+302: Summary for xlm-roberta-large-finetuned-conll03-english
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+303: Summary for xlm-roberta-large-finetuned-conll03-german
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+304: Summary for xlnet-base-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+305: Summary for xlnet-large-cased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+306: Summary for yihanlin/scibert_scivocab_uncased
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+307: Summary for yosuke/bert-base-japanese-char
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
