@@ -1,4 +1,3 @@
-
 0: Summary for DeepPavlov/bert-base-bg-cs-pl-ru-cased
 --------------------------------------------------
 TODO_1: In DeepPavlov/bert-base-bg-cs-pl-ru-cased the eos_token_ids has to be removed
