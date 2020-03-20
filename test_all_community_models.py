@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
 
-from transformers import AutoConfig
-from transformers import AutoTokenizer
-
-import sys
+from transformers import AutoConfig, AutoTokenizer
+from transformers.hf_api import HfApi
 
 
-def read_in_file(path_to_file):
-    with open(path_to_file, 'r') as file_to_read:
-        lines_in_file = file_to_read.readlines()
-        lines_in_file = [line.strip() for line in lines_in_file]
-        return lines_in_file
+def get_all_model_paths():
+    api = HfApi()
+    model_list = [model_dict.modelId for model_dict in api.model_list()]
+    return model_list
 
 
 def check_all_community_files(all_models_paths):
@@ -21,9 +18,18 @@ def check_all_community_files(all_models_paths):
 
         try:
             config = AutoConfig.from_pretrained(model_path)
+        except Exception as e:  # noqa: E722
+            print('CONF ERROR: {} config can not be loaded'.format(model_path))
+            print('Message: {}'.format(e))
+            print(50 * '=')
+            all_good = False
+            continue
+
+        try:
             tok = AutoTokenizer.from_pretrained(model_path)
-        except:  # noqa: E722
-            print('ERROR: {} config or tokenizer can not be loaded'.format(model_path))
+        except Exception as e:  # noqa: E722
+            print('TOK ERROR: {} tokenizer can not be loaded'.format(model_path))
+            print('Message: {}'.format(e))
             print(50 * '=')
             all_good = False
             continue
@@ -57,20 +63,25 @@ def check_all_community_files(all_models_paths):
 
         print(50 * '-')
 
+        current_config_wrong = False
+
         if not pad_equal:
             all_good = False
+            current_config_wrong = True
             print("PAD in Tokenizer and Config not equal for {}!".format(model_path))
             print("PAD in Tokenizer: {} | PAD in Config: {}".format(tok.pad_token_id, conf_pad_token_id))
             print(50 * "-")
 
         if not eos_equal:
             all_good = False
+            current_config_wrong = True
             print("EOS in Tokenizer and Config not equal for {}!".format(model_path))
             print("EOS in Tokenizer: {} |EOS in Config: {}".format(tok.eos_token_id, conf_eos_token_id))
             print(50 * "-")
 
         if not bos_equal:
             all_good = False
+            current_config_wrong = True
             print("BOS in Tokenizer and Config not equal for {}!".format(model_path))
             print("BOS in Tokenizer: {} | BOS in Config: {}".format(tok.bos_token_id, conf_bos_token_id))
             print(50 * "-")
@@ -78,8 +89,11 @@ def check_all_community_files(all_models_paths):
         if all_good is True:
             print("All good!")
 
+        if current_config_wrong is True:
+            print("Config needs change!")
+
         print(50 * '=')
 
 
-all_models_paths = read_in_file(sys.argv[1])
+all_models_paths = get_all_model_paths()
 check_all_community_files(all_models_paths)
