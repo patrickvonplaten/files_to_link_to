@@ -76,7 +76,10 @@ for model_dict in model_list:
 
     if is_change:
 
-        print(model_dict.author + ' - ' + model_dict.modelId)
+        if model_dict.author is not None and isinstance(model_dict.author, str):
+            print(model_dict.author + ' - ' + model_dict.modelId)
+        else:
+            print("No Author - " + model_dict.modelId)
         # save config as it was saved before
         with open(path_to_config, 'w') as f:
             json.dump(config_json, f, indent=2, sort_keys=True)
