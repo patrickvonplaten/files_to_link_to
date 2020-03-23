@@ -1,3 +1,4 @@
+
 0: Summary for DeepPavlov/bert-base-bg-cs-pl-ru-cased
 --------------------------------------------------
 TODO_1: In DeepPavlov/bert-base-bg-cs-pl-ru-cased the eos_token_ids has to be removed
@@ -548,91 +549,67 @@ All good!
 All good!
 ==================================================
 
-62: Summary for bert-base-multilingual-cased-finetuned-conll03-dutch
---------------------------------------------------
-CONF ERROR: bert-base-multilingual-cased-finetuned-conll03-dutch config can not be loaded
-Message: Can't load 'bert-base-multilingual-cased-finetuned-conll03-dutch'. Make sure that:
-
-- 'bert-base-multilingual-cased-finetuned-conll03-dutch' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'bert-base-multilingual-cased-finetuned-conll03-dutch' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-63: Summary for bert-base-multilingual-cased-finetuned-conll03-spanish
---------------------------------------------------
-CONF ERROR: bert-base-multilingual-cased-finetuned-conll03-spanish config can not be loaded
-Message: Can't load 'bert-base-multilingual-cased-finetuned-conll03-spanish'. Make sure that:
-
-- 'bert-base-multilingual-cased-finetuned-conll03-spanish' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'bert-base-multilingual-cased-finetuned-conll03-spanish' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-64: Summary for bert-base-multilingual-uncased
+62: Summary for bert-base-multilingual-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-65: Summary for bert-base-uncased
+63: Summary for bert-base-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-66: Summary for bert-large-cased
+64: Summary for bert-large-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-67: Summary for bert-large-cased-whole-word-masking
+65: Summary for bert-large-cased-whole-word-masking
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-68: Summary for bert-large-cased-whole-word-masking-finetuned-squad
+66: Summary for bert-large-cased-whole-word-masking-finetuned-squad
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-69: Summary for bert-large-uncased
+67: Summary for bert-large-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-70: Summary for bert-large-uncased-whole-word-masking
+68: Summary for bert-large-uncased-whole-word-masking
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-71: Summary for bert-large-uncased-whole-word-masking-finetuned-squad
+69: Summary for bert-large-uncased-whole-word-masking-finetuned-squad
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-72: Summary for binwang/bert-base-nli-stsb
+70: Summary for binwang/bert-base-nli-stsb
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-73: Summary for binwang/bert-base-nli
+71: Summary for binwang/bert-base-nli
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-74: Summary for binwang/bert-base-uncased
+72: Summary for binwang/bert-base-uncased
 --------------------------------------------------
 TODO_1: In binwang/bert-base-uncased the eos_token_ids has to be removed
 TODO_2: In binwang/bert-base-uncased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -646,19 +623,19 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-75: Summary for binwang/bert-large-nli-stsb
+73: Summary for binwang/bert-large-nli-stsb
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-76: Summary for binwang/bert-large-nli
+74: Summary for binwang/bert-large-nli
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-77: Summary for binwang/roberta-base
+75: Summary for binwang/roberta-base
 --------------------------------------------------
 TODO_1: In binwang/roberta-base the eos_token_ids has to be removed
 TODO_2: In binwang/roberta-base eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
@@ -672,13 +649,13 @@ EOS in Tokenizer: 2 |EOS in Config: 0
 Config needs change!
 ==================================================
 
-78: Summary for binwang/xlnet-base-cased
+76: Summary for binwang/xlnet-base-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-79: Summary for camembert-base
+77: Summary for camembert-base
 --------------------------------------------------
 --------------------------------------------------
 EOS in Tokenizer and Config not equal for camembert-base!
@@ -690,7 +667,7 @@ BOS in Tokenizer: 5 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-80: Summary for canwenxu/BERT-of-Theseus-MNLI
+78: Summary for canwenxu/BERT-of-Theseus-MNLI
 --------------------------------------------------
 TODO_1: In canwenxu/BERT-of-Theseus-MNLI the eos_token_ids has to be removed
 TODO_2: In canwenxu/BERT-of-Theseus-MNLI eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -704,91 +681,91 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-81: Summary for bert-base-japanese-char
+79: Summary for bert-base-japanese-char
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-82: Summary for bert-base-japanese-char-whole-word-masking
+80: Summary for bert-base-japanese-char-whole-word-masking
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-83: Summary for bert-base-japanese
+81: Summary for bert-base-japanese
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-84: Summary for bert-base-japanese-whole-word-masking
+82: Summary for bert-base-japanese-whole-word-masking
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-85: Summary for clue/albert_chinese_small
+83: Summary for clue/albert_chinese_small
 --------------------------------------------------
 TOK ERROR: clue/albert_chinese_small tokenizer can not be loaded
 Message: Model name 'clue/albert_chinese_small' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'clue/albert_chinese_small' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-86: Summary for clue/albert_chinese_tiny
+84: Summary for clue/albert_chinese_tiny
 --------------------------------------------------
 TOK ERROR: clue/albert_chinese_tiny tokenizer can not be loaded
 Message: Model name 'clue/albert_chinese_tiny' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'clue/albert_chinese_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-87: Summary for clue/roberta_chinese_3L312_clue_tiny
+85: Summary for clue/roberta_chinese_3L312_clue_tiny
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_3L312_clue_tiny tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_3L312_clue_tiny' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_3L312_clue_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-88: Summary for clue/roberta_chinese_3L768_clue_tiny
+86: Summary for clue/roberta_chinese_3L768_clue_tiny
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_3L768_clue_tiny tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_3L768_clue_tiny' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_3L768_clue_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-89: Summary for clue/roberta_chinese_base
+87: Summary for clue/roberta_chinese_base
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_base tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_base' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_base' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-90: Summary for clue/roberta_chinese_clue_large
+88: Summary for clue/roberta_chinese_clue_large
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_clue_large tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_clue_large' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_clue_large' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-91: Summary for clue/roberta_chinese_clue_tiny
+89: Summary for clue/roberta_chinese_clue_tiny
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_clue_tiny tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_clue_tiny' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_clue_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-92: Summary for clue/roberta_chinese_large
+90: Summary for clue/roberta_chinese_large
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_large tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_large' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_large' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-93: Summary for clue/roberta_chinese_pair_large
+91: Summary for clue/roberta_chinese_pair_large
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_pair_large tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_pair_large' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_pair_large' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-94: Summary for clue/roberta_chinese_pair_tiny
+92: Summary for clue/roberta_chinese_pair_tiny
 --------------------------------------------------
 TOK ERROR: clue/roberta_chinese_pair_tiny tokenizer can not be loaded
 Message: Model name 'clue/roberta_chinese_pair_tiny' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'clue/roberta_chinese_pair_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-95: Summary for clue/xlnet_chinese_large
+93: Summary for clue/xlnet_chinese_large
 --------------------------------------------------
 TODO_1: In clue/xlnet_chinese_large the eos_token_ids has to be removed
 TODO_2: In clue/xlnet_chinese_large eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -805,73 +782,73 @@ BOS in Tokenizer: 1 | BOS in Config: None
 Config needs change!
 ==================================================
 
-96: Summary for dbmdz/bert-base-cased-finetuned-conll03-english
+94: Summary for dbmdz/bert-base-cased-finetuned-conll03-english
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-97: Summary for dbmdz/bert-base-german-cased
+95: Summary for dbmdz/bert-base-german-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-98: Summary for dbmdz/bert-base-german-europeana-cased
+96: Summary for dbmdz/bert-base-german-europeana-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-99: Summary for dbmdz/bert-base-german-europeana-uncased
+97: Summary for dbmdz/bert-base-german-europeana-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-100: Summary for dbmdz/bert-base-german-uncased
+98: Summary for dbmdz/bert-base-german-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-101: Summary for dbmdz/bert-base-italian-cased
+99: Summary for dbmdz/bert-base-italian-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-102: Summary for dbmdz/bert-base-italian-uncased
+100: Summary for dbmdz/bert-base-italian-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-103: Summary for dbmdz/bert-base-italian-xxl-cased
+101: Summary for dbmdz/bert-base-italian-xxl-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-104: Summary for dbmdz/bert-base-italian-xxl-uncased
+102: Summary for dbmdz/bert-base-italian-xxl-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-105: Summary for dbmdz/bert-base-turkish-cased
+103: Summary for dbmdz/bert-base-turkish-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-106: Summary for dbmdz/bert-large-cased-finetuned-conll03-english
+104: Summary for dbmdz/bert-large-cased-finetuned-conll03-english
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-107: Summary for dbmdz/distilbert-base-turkish-cased
+105: Summary for dbmdz/distilbert-base-turkish-cased
 --------------------------------------------------
 TODO_1: In dbmdz/distilbert-base-turkish-cased the eos_token_ids has to be removed
 --------------------------------------------------
@@ -881,7 +858,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-108: Summary for dccuchile/bert-base-spanish-wwm-cased
+106: Summary for dccuchile/bert-base-spanish-wwm-cased
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for dccuchile/bert-base-spanish-wwm-cased!
@@ -890,7 +867,7 @@ PAD in Tokenizer: 1 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-109: Summary for dccuchile/bert-base-spanish-wwm-uncased
+107: Summary for dccuchile/bert-base-spanish-wwm-uncased
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for dccuchile/bert-base-spanish-wwm-uncased!
@@ -899,19 +876,19 @@ PAD in Tokenizer: 1 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-110: Summary for dccuchile/cased
+108: Summary for dccuchile/cased
 --------------------------------------------------
 CONF ERROR: dccuchile/cased config can not be loaded
 Message: Unrecognized model in dccuchile/cased. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-111: Summary for dccuchile/uncased
+109: Summary for dccuchile/uncased
 --------------------------------------------------
 CONF ERROR: dccuchile/uncased config can not be loaded
 Message: Unrecognized model in dccuchile/uncased. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-112: Summary for deepset/bert-base-cased-squad2
+110: Summary for deepset/bert-base-cased-squad2
 --------------------------------------------------
 TODO_1: In deepset/bert-base-cased-squad2 the eos_token_ids has to be removed
 TODO_2: In deepset/bert-base-cased-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -925,13 +902,13 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-113: Summary for deepset/bert-base-german-cased-hatespeech-GermEval18Coarse
+111: Summary for deepset/bert-base-german-cased-hatespeech-GermEval18Coarse
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-114: Summary for deepset/bert-large-uncased-whole-word-masking-squad2
+112: Summary for deepset/bert-large-uncased-whole-word-masking-squad2
 --------------------------------------------------
 TODO_1: In deepset/bert-large-uncased-whole-word-masking-squad2 the eos_token_ids has to be removed
 TODO_2: In deepset/bert-large-uncased-whole-word-masking-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -945,7 +922,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-115: Summary for deepset/roberta-base-squad2
+113: Summary for deepset/roberta-base-squad2
 --------------------------------------------------
 TODO_1: In deepset/roberta-base-squad2 the eos_token_ids has to be removed
 TODO_2: In deepset/roberta-base-squad2 eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
@@ -959,19 +936,19 @@ EOS in Tokenizer: 2 |EOS in Config: 0
 Config needs change!
 ==================================================
 
-116: Summary for deepset/sentence_bert
+114: Summary for deepset/sentence_bert
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-117: Summary for denpa92/bert-base-cantonese
+115: Summary for denpa92/bert-base-cantonese
 --------------------------------------------------
 TOK ERROR: denpa92/bert-base-cantonese tokenizer can not be loaded
 Message: Model name 'denpa92/bert-base-cantonese' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'denpa92/bert-base-cantonese' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-118: Summary for distilbert-base-cased
+116: Summary for distilbert-base-cased
 --------------------------------------------------
 TODO_1: In distilbert-base-cased the eos_token_ids has to be removed
 TODO_2: In distilbert-base-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -985,7 +962,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-119: Summary for distilbert-base-cased-distilled-squad
+117: Summary for distilbert-base-cased-distilled-squad
 --------------------------------------------------
 TODO_1: In distilbert-base-cased-distilled-squad the eos_token_ids has to be removed
 TODO_2: In distilbert-base-cased-distilled-squad eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -999,55 +976,55 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-120: Summary for distilbert-base-german-cased
+118: Summary for distilbert-base-german-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-121: Summary for distilbert-base-multilingual-cased
+119: Summary for distilbert-base-multilingual-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-122: Summary for distilbert-base-uncased
+120: Summary for distilbert-base-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-123: Summary for distilbert-base-uncased-distilled-squad
+121: Summary for distilbert-base-uncased-distilled-squad
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-124: Summary for distilbert-base-uncased-finetuned-sst-2-english
+122: Summary for distilbert-base-uncased-finetuned-sst-2-english
 --------------------------------------------------
 TOK ERROR: distilbert-base-uncased-finetuned-sst-2-english tokenizer can not be loaded
 Message: Model name 'distilbert-base-uncased-finetuned-sst-2-english' was not found in tokenizers model name list (distilbert-base-uncased, distilbert-base-uncased-distilled-squad, distilbert-base-cased, distilbert-base-cased-distilled-squad, distilbert-base-german-cased, distilbert-base-multilingual-cased). We assumed 'distilbert-base-uncased-finetuned-sst-2-english' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-125: Summary for distilgpt2
+123: Summary for distilgpt2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-126: Summary for distilroberta-base
+124: Summary for distilroberta-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-127: Summary for djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12
+125: Summary for djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12
 --------------------------------------------------
 CONF ERROR: djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12 config can not be loaded
 Message: Unrecognized model in djstrong/bg_cs_pl_ru_cased_L-12_H-768_A-12. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-128: Summary for dkleczek/bert-base-polish-uncased-v1
+126: Summary for dkleczek/bert-base-polish-uncased-v1
 --------------------------------------------------
 TODO_1: In dkleczek/bert-base-polish-uncased-v1 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1057,67 +1034,67 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-129: Summary for emilyalsentzer/Bio_ClinicalBERT
+127: Summary for emilyalsentzer/Bio_ClinicalBERT
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-130: Summary for emilyalsentzer/Bio_Discharge_Summary_BERT
+128: Summary for emilyalsentzer/Bio_Discharge_Summary_BERT
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-131: Summary for facebook/bart-large-cnn
+129: Summary for facebook/bart-large-cnn
 --------------------------------------------------
 TOK ERROR: facebook/bart-large-cnn tokenizer can not be loaded
 Message: Model name 'facebook/bart-large-cnn' was not found in tokenizers model name list (bart-large, bart-large-mnli, bart-large-cnn). We assumed 'facebook/bart-large-cnn' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-132: Summary for facebook/bart-large-mnli
+130: Summary for facebook/bart-large-mnli
 --------------------------------------------------
 TOK ERROR: facebook/bart-large-mnli tokenizer can not be loaded
 Message: Model name 'facebook/bart-large-mnli' was not found in tokenizers model name list (bart-large, bart-large-mnli, bart-large-cnn). We assumed 'facebook/bart-large-mnli' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-133: Summary for facebook/bart-large-xsum
+131: Summary for facebook/bart-large-xsum
 --------------------------------------------------
 TOK ERROR: facebook/bart-large-xsum tokenizer can not be loaded
 Message: Model name 'facebook/bart-large-xsum' was not found in tokenizers model name list (bart-large, bart-large-mnli, bart-large-cnn). We assumed 'facebook/bart-large-xsum' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-134: Summary for facebook/bart-large
+132: Summary for facebook/bart-large
 --------------------------------------------------
 TOK ERROR: facebook/bart-large tokenizer can not be loaded
 Message: Model name 'facebook/bart-large' was not found in tokenizers model name list (bart-large, bart-large-mnli, bart-large-cnn). We assumed 'facebook/bart-large' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-135: Summary for flaubert/flaubert_base_cased
+133: Summary for flaubert/flaubert_base_cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-136: Summary for flaubert/flaubert_base_uncased
+134: Summary for flaubert/flaubert_base_uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-137: Summary for flaubert/flaubert_large_cased
+135: Summary for flaubert/flaubert_large_cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-138: Summary for flaubert/flaubert_small_cased
+136: Summary for flaubert/flaubert_small_cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-139: Summary for fmikaelian/camembert-base-fquad
+137: Summary for fmikaelian/camembert-base-fquad
 --------------------------------------------------
 TODO_1: In fmikaelian/camembert-base-fquad the eos_token_ids has to be removed
 TODO_2: In fmikaelian/camembert-base-fquad eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -1134,7 +1111,7 @@ BOS in Tokenizer: 5 | BOS in Config: None
 Config needs change!
 ==================================================
 
-140: Summary for fmikaelian/camembert-base-squad
+138: Summary for fmikaelian/camembert-base-squad
 --------------------------------------------------
 TODO_1: In fmikaelian/camembert-base-squad the eos_token_ids has to be removed
 TODO_2: In fmikaelian/camembert-base-squad eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -1151,7 +1128,7 @@ BOS in Tokenizer: 5 | BOS in Config: None
 Config needs change!
 ==================================================
 
-141: Summary for fmikaelian/flaubert-base-uncased-squad
+139: Summary for fmikaelian/flaubert-base-uncased-squad
 --------------------------------------------------
 TODO_1: In fmikaelian/flaubert-base-uncased-squad the eos_token_ids has to be removed
 TODO_2: In fmikaelian/flaubert-base-uncased-squad eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1165,205 +1142,205 @@ EOS in Tokenizer: None |EOS in Config: 0
 Config needs change!
 ==================================================
 
-142: Summary for google/bert_uncased_L-10_H-128_A-2
+140: Summary for google/bert_uncased_L-10_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-143: Summary for google/bert_uncased_L-10_H-256_A-4
+141: Summary for google/bert_uncased_L-10_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-144: Summary for google/bert_uncased_L-10_H-512_A-8
+142: Summary for google/bert_uncased_L-10_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-145: Summary for google/bert_uncased_L-10_H-768_A-12
+143: Summary for google/bert_uncased_L-10_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-146: Summary for google/bert_uncased_L-12_H-128_A-2
+144: Summary for google/bert_uncased_L-12_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-147: Summary for google/bert_uncased_L-12_H-256_A-4
+145: Summary for google/bert_uncased_L-12_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-148: Summary for google/bert_uncased_L-12_H-512_A-8
+146: Summary for google/bert_uncased_L-12_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-149: Summary for google/bert_uncased_L-12_H-768_A-12
+147: Summary for google/bert_uncased_L-12_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-150: Summary for google/bert_uncased_L-2_H-128_A-2
+148: Summary for google/bert_uncased_L-2_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-151: Summary for google/bert_uncased_L-2_H-256_A-4
+149: Summary for google/bert_uncased_L-2_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-152: Summary for google/bert_uncased_L-2_H-512_A-8
+150: Summary for google/bert_uncased_L-2_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-153: Summary for google/bert_uncased_L-2_H-768_A-12
+151: Summary for google/bert_uncased_L-2_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-154: Summary for google/bert_uncased_L-4_H-128_A-2
+152: Summary for google/bert_uncased_L-4_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-155: Summary for google/bert_uncased_L-4_H-256_A-4
+153: Summary for google/bert_uncased_L-4_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-156: Summary for google/bert_uncased_L-4_H-512_A-8
+154: Summary for google/bert_uncased_L-4_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-157: Summary for google/bert_uncased_L-4_H-768_A-12
+155: Summary for google/bert_uncased_L-4_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-158: Summary for google/bert_uncased_L-6_H-128_A-2
+156: Summary for google/bert_uncased_L-6_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-159: Summary for google/bert_uncased_L-6_H-256_A-4
+157: Summary for google/bert_uncased_L-6_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-160: Summary for google/bert_uncased_L-6_H-512_A-8
+158: Summary for google/bert_uncased_L-6_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-161: Summary for google/bert_uncased_L-6_H-768_A-12
+159: Summary for google/bert_uncased_L-6_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-162: Summary for google/bert_uncased_L-8_H-128_A-2
+160: Summary for google/bert_uncased_L-8_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-163: Summary for google/bert_uncased_L-8_H-256_A-4
+161: Summary for google/bert_uncased_L-8_H-256_A-4
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-164: Summary for google/bert_uncased_L-8_H-512_A-8
+162: Summary for google/bert_uncased_L-8_H-512_A-8
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-165: Summary for google/bert_uncased_L-8_H-768_A-12
+163: Summary for google/bert_uncased_L-8_H-768_A-12
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-166: Summary for google/electra-base
+164: Summary for google/electra-base
 --------------------------------------------------
 CONF ERROR: google/electra-base config can not be loaded
 Message: Unrecognized model in google/electra-base. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-167: Summary for google/electra-large
+165: Summary for google/electra-large
 --------------------------------------------------
 CONF ERROR: google/electra-large config can not be loaded
 Message: Unrecognized model in google/electra-large. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-168: Summary for google/electra-small
+166: Summary for google/electra-small
 --------------------------------------------------
 CONF ERROR: google/electra-small config can not be loaded
 Message: Unrecognized model in google/electra-small. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-169: Summary for gpt2
+167: Summary for gpt2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-170: Summary for gpt2-large
+168: Summary for gpt2-large
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-171: Summary for gpt2-medium
+169: Summary for gpt2-medium
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-172: Summary for gpt2-xl
+170: Summary for gpt2-xl
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-173: Summary for guolingqi/bert_base
+171: Summary for guolingqi/bert_base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-174: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad1
+172: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad1
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-175: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad2
+173: Summary for henryk/bert-base-multilingual-cased-finetuned-dutch-squad2
 --------------------------------------------------
 TODO_1: In henryk/bert-base-multilingual-cased-finetuned-dutch-squad2 the eos_token_ids has to be removed
 TODO_2: In henryk/bert-base-multilingual-cased-finetuned-dutch-squad2 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1377,73 +1354,73 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-176: Summary for hfl/chinese-bert-wwm-ext
+174: Summary for hfl/chinese-bert-wwm-ext
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-177: Summary for hfl/chinese-bert-wwm
+175: Summary for hfl/chinese-bert-wwm
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-178: Summary for hfl/chinese-roberta-wwm-ext-large
+176: Summary for hfl/chinese-roberta-wwm-ext-large
 --------------------------------------------------
 TOK ERROR: hfl/chinese-roberta-wwm-ext-large tokenizer can not be loaded
 Message: expected str, bytes or os.PathLike object, not NoneType
 ==================================================
 
-179: Summary for hfl/chinese-roberta-wwm-ext
+177: Summary for hfl/chinese-roberta-wwm-ext
 --------------------------------------------------
 TOK ERROR: hfl/chinese-roberta-wwm-ext tokenizer can not be loaded
 Message: expected str, bytes or os.PathLike object, not NoneType
 ==================================================
 
-180: Summary for hfl/chinese-xlnet-base
+178: Summary for hfl/chinese-xlnet-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-181: Summary for hfl/chinese-xlnet-mid
+179: Summary for hfl/chinese-xlnet-mid
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-182: Summary for hfl/rbt3
+180: Summary for hfl/rbt3
 --------------------------------------------------
 CONF ERROR: hfl/rbt3 config can not be loaded
 Message: Unrecognized model in hfl/rbt3. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-183: Summary for hfl/rbtl3
+181: Summary for hfl/rbtl3
 --------------------------------------------------
 CONF ERROR: hfl/rbtl3 config can not be loaded
 Message: Unrecognized model in hfl/rbtl3. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-184: Summary for huggingface/CodeBERTa-language-id
+182: Summary for huggingface/CodeBERTa-language-id
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-185: Summary for huggingface/CodeBERTa-small-v1
+183: Summary for huggingface/CodeBERTa-small-v1
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-186: Summary for huseinzol05/bert-base-bahasa-cased
+184: Summary for huseinzol05/bert-base-bahasa-cased
 --------------------------------------------------
 TOK ERROR: huseinzol05/bert-base-bahasa-cased tokenizer can not be loaded
 Message: stat: path should be string, bytes, os.PathLike or integer, not NoneType
 ==================================================
 
-187: Summary for idb-ita/gilberto-uncased-from-camembert
+185: Summary for idb-ita/gilberto-uncased-from-camembert
 --------------------------------------------------
 TODO_1: In idb-ita/gilberto-uncased-from-camembert the eos_token_ids has to be removed
 TODO_2: In idb-ita/gilberto-uncased-from-camembert eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
@@ -1460,7 +1437,7 @@ BOS in Tokenizer: 5 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-188: Summary for irvingpop/dreambank
+186: Summary for irvingpop/dreambank
 --------------------------------------------------
 TODO_1: In irvingpop/dreambank the eos_token_ids has to be removed
 TODO_2: In irvingpop/dreambank eos_token_ids is None but default eos_token_id is 50256 - Adapt on AWS
@@ -1474,13 +1451,13 @@ BOS in Tokenizer: 50256 | BOS in Config: None
 Config needs change!
 ==================================================
 
-189: Summary for iuliaturc/bert_uncased_L-2_H-128_A-2
+187: Summary for iuliaturc/bert_uncased_L-2_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-190: Summary for ixa-ehu/berteus-base-cased
+188: Summary for ixa-ehu/berteus-base-cased
 --------------------------------------------------
 TODO_1: In ixa-ehu/berteus-base-cased the eos_token_ids has to be removed
 TODO_2: In ixa-ehu/berteus-base-cased eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1497,13 +1474,13 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-191: Summary for jannesg/bertsson
+189: Summary for jannesg/bertsson
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-192: Summary for jplu/tf-camembert-base
+190: Summary for jplu/tf-camembert-base
 --------------------------------------------------
 --------------------------------------------------
 EOS in Tokenizer and Config not equal for jplu/tf-camembert-base!
@@ -1515,43 +1492,43 @@ BOS in Tokenizer: 5 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-193: Summary for jplu/tf-flaubert-base-cased
+191: Summary for jplu/tf-flaubert-base-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-194: Summary for jplu/tf-flaubert-base-uncased
+192: Summary for jplu/tf-flaubert-base-uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-195: Summary for jplu/tf-flaubert-large-cased
+193: Summary for jplu/tf-flaubert-large-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-196: Summary for jplu/tf-flaubert-small-cased
+194: Summary for jplu/tf-flaubert-small-cased
 --------------------------------------------------
 TOK ERROR: jplu/tf-flaubert-small-cased tokenizer can not be loaded
 Message: Model name 'jplu/tf-flaubert-small-cased' was not found in tokenizers model name list (flaubert-small-cased, flaubert-base-uncased, flaubert-base-cased, flaubert-large-cased). We assumed 'jplu/tf-flaubert-small-cased' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-197: Summary for jplu/tf-xlm-roberta-base
+195: Summary for jplu/tf-xlm-roberta-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-198: Summary for jplu/tf-xlm-roberta-large
+196: Summary for jplu/tf-xlm-roberta-large
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-199: Summary for julien-c/EsperBERTo-small-pos
+197: Summary for julien-c/EsperBERTo-small-pos
 --------------------------------------------------
 TODO_1: In julien-c/EsperBERTo-small-pos the eos_token_ids has to be removed
 TODO_2: In julien-c/EsperBERTo-small-pos eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
@@ -1565,19 +1542,19 @@ EOS in Tokenizer: 2 |EOS in Config: 0
 Config needs change!
 ==================================================
 
-200: Summary for julien-c/EsperBERTo-small
+198: Summary for julien-c/EsperBERTo-small
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-201: Summary for julien-c/bert-xsmall-dummy
+199: Summary for julien-c/bert-xsmall-dummy
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-202: Summary for julien-c/dummy-unknown
+200: Summary for julien-c/dummy-unknown
 --------------------------------------------------
 TODO_1: In julien-c/dummy-unknown the eos_token_ids has to be removed
 TODO_2: In julien-c/dummy-unknown eos_token_ids is 0 but default eos_token_id is 2 - Adapt on AWS
@@ -1594,7 +1571,7 @@ BOS in Tokenizer: 19 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-203: Summary for ktrapeznikov/albert-xlarge-v2-squad-v2
+201: Summary for ktrapeznikov/albert-xlarge-v2-squad-v2
 --------------------------------------------------
 TODO_1: In ktrapeznikov/albert-xlarge-v2-squad-v2 the eos_token_ids has to be removed
 TODO_2: In ktrapeznikov/albert-xlarge-v2-squad-v2 eos_token_ids is 0 but default eos_token_id is 3 - Adapt on AWS
@@ -1608,19 +1585,19 @@ BOS in Tokenizer: 2 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-204: Summary for lonePatient/albert_chinese_small
+202: Summary for lonePatient/albert_chinese_small
 --------------------------------------------------
 TOK ERROR: lonePatient/albert_chinese_small tokenizer can not be loaded
 Message: Model name 'lonePatient/albert_chinese_small' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'lonePatient/albert_chinese_small' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-205: Summary for lonePatient/roberta_chinese_clue_tiny
+203: Summary for lonePatient/roberta_chinese_clue_tiny
 --------------------------------------------------
 TOK ERROR: lonePatient/roberta_chinese_clue_tiny tokenizer can not be loaded
 Message: Model name 'lonePatient/roberta_chinese_clue_tiny' was not found in tokenizers model name list (roberta-base, roberta-large, roberta-large-mnli, distilroberta-base, roberta-base-openai-detector, roberta-large-openai-detector). We assumed 'lonePatient/roberta_chinese_clue_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.json', 'merges.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-206: Summary for lvwerra/gpt2-medium-taboo
+204: Summary for lvwerra/gpt2-medium-taboo
 --------------------------------------------------
 TODO_1: In lvwerra/gpt2-medium-taboo the eos_token_ids has to be removed
 TODO_2: In lvwerra/gpt2-medium-taboo eos_token_ids is 0 but default eos_token_id is 50256 - Adapt on AWS
@@ -1637,31 +1614,31 @@ BOS in Tokenizer: 50256 | BOS in Config: 0
 Config needs change!
 ==================================================
 
-207: Summary for lysandre/arxiv-nlp
+205: Summary for lysandre/arxiv-nlp
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-208: Summary for lysandre/arxiv
+206: Summary for lysandre/arxiv
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-209: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0
+207: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-210: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto
+208: Summary for m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto
 --------------------------------------------------
 TOK ERROR: m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto tokenizer can not be loaded
 Message: Model name 'm-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'm-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alberto' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-211: Summary for marrrcin/PolBERTa-base-polish-cased-v1
+209: Summary for marrrcin/PolBERTa-base-polish-cased-v1
 --------------------------------------------------
 TODO_1: In marrrcin/PolBERTa-base-polish-cased-v1 the eos_token_ids has to be removed
 TODO_2: In marrrcin/PolBERTa-base-polish-cased-v1 eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -1678,7 +1655,7 @@ BOS in Tokenizer: 0 | BOS in Config: None
 Config needs change!
 ==================================================
 
-212: Summary for microsoft/DialoGPT-large
+210: Summary for microsoft/DialoGPT-large
 --------------------------------------------------
 TODO_1: In microsoft/DialoGPT-large the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1688,7 +1665,7 @@ PAD in Tokenizer: None | PAD in Config: 50256
 Config needs change!
 ==================================================
 
-213: Summary for microsoft/DialoGPT-medium
+211: Summary for microsoft/DialoGPT-medium
 --------------------------------------------------
 TODO_1: In microsoft/DialoGPT-medium the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1698,7 +1675,7 @@ PAD in Tokenizer: None | PAD in Config: 50256
 Config needs change!
 ==================================================
 
-214: Summary for microsoft/DialoGPT-small
+212: Summary for microsoft/DialoGPT-small
 --------------------------------------------------
 TODO_1: In microsoft/DialoGPT-small the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1708,43 +1685,19 @@ PAD in Tokenizer: None | PAD in Config: 50256
 Config needs change!
 ==================================================
 
-215: Summary for mlm-100-1280
---------------------------------------------------
-CONF ERROR: mlm-100-1280 config can not be loaded
-Message: Can't load 'mlm-100-1280'. Make sure that:
-
-- 'mlm-100-1280' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'mlm-100-1280' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-216: Summary for mlm-17-1280
---------------------------------------------------
-CONF ERROR: mlm-17-1280 config can not be loaded
-Message: Can't load 'mlm-17-1280'. Make sure that:
-
-- 'mlm-17-1280' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'mlm-17-1280' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-217: Summary for monologg/biobert_v1.0_pubmed_pmc
+213: Summary for monologg/biobert_v1.0_pubmed_pmc
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-218: Summary for monologg/biobert_v1.1_pubmed
+214: Summary for monologg/biobert_v1.1_pubmed
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-219: Summary for monologg/distilkobert
+215: Summary for monologg/distilkobert
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for monologg/distilkobert!
@@ -1753,7 +1706,7 @@ PAD in Tokenizer: 1 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-220: Summary for monologg/kobert-lm
+216: Summary for monologg/kobert-lm
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for monologg/kobert-lm!
@@ -1762,7 +1715,7 @@ PAD in Tokenizer: 1 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-221: Summary for monologg/kobert
+217: Summary for monologg/kobert
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for monologg/kobert!
@@ -1771,13 +1724,7 @@ PAD in Tokenizer: 1 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-222: Summary for monologg/scibert_scivocab_uncased
---------------------------------------------------
---------------------------------------------------
-All good!
-==================================================
-
-223: Summary for mrm8488/CodeBERTaPy
+218: Summary for mrm8488/CodeBERTaPy
 --------------------------------------------------
 TODO_1: In mrm8488/CodeBERTaPy the eos_token_ids has to be removed
 TODO_2: In mrm8488/CodeBERTaPy eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -1794,7 +1741,7 @@ BOS in Tokenizer: 0 | BOS in Config: None
 Config needs change!
 ==================================================
 
-224: Summary for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
+219: Summary for mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
 --------------------------------------------------
 TODO_1: In mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es the eos_token_ids has to be removed
 TODO_2: In mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1811,7 +1758,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-225: Summary for mrm8488/bert-mini-finetuned-squadv2
+220: Summary for mrm8488/bert-mini-finetuned-squadv2
 --------------------------------------------------
 TODO_1: In mrm8488/bert-mini-finetuned-squadv2 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1821,7 +1768,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-226: Summary for mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp
+221: Summary for mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp
 --------------------------------------------------
 TODO_1: In mrm8488/bert-multi-cased-finedtuned-xquad-tydiqa-goldp the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1831,7 +1778,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-227: Summary for mrm8488/bert-multi-cased-finetuned-xquadv1
+222: Summary for mrm8488/bert-multi-cased-finetuned-xquadv1
 --------------------------------------------------
 TODO_1: In mrm8488/bert-multi-cased-finetuned-xquadv1 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1841,7 +1788,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-228: Summary for mrm8488/bert-multi-uncased-finetuned-xquadv1
+223: Summary for mrm8488/bert-multi-uncased-finetuned-xquadv1
 --------------------------------------------------
 TODO_1: In mrm8488/bert-multi-uncased-finetuned-xquadv1 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1851,7 +1798,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-229: Summary for mrm8488/bert-small-finetuned-squadv2
+224: Summary for mrm8488/bert-small-finetuned-squadv2
 --------------------------------------------------
 TODO_1: In mrm8488/bert-small-finetuned-squadv2 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1861,7 +1808,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-230: Summary for mrm8488/bert-spanish-cased-finedtuned-ner
+225: Summary for mrm8488/bert-spanish-cased-finedtuned-ner
 --------------------------------------------------
 TODO_1: In mrm8488/bert-spanish-cased-finedtuned-ner the eos_token_ids has to be removed
 TODO_2: In mrm8488/bert-spanish-cased-finedtuned-ner eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1878,7 +1825,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-231: Summary for mrm8488/bert-spanish-cased-finetuned-ner
+226: Summary for mrm8488/bert-spanish-cased-finetuned-ner
 --------------------------------------------------
 TODO_1: In mrm8488/bert-spanish-cased-finetuned-ner the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1888,7 +1835,7 @@ PAD in Tokenizer: 1 | PAD in Config: None
 Config needs change!
 ==================================================
 
-232: Summary for mrm8488/bert-spanish-cased-finetuned-pos-16-tags
+227: Summary for mrm8488/bert-spanish-cased-finetuned-pos-16-tags
 --------------------------------------------------
 TODO_1: In mrm8488/bert-spanish-cased-finetuned-pos-16-tags the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1898,7 +1845,7 @@ PAD in Tokenizer: 1 | PAD in Config: None
 Config needs change!
 ==================================================
 
-233: Summary for mrm8488/bert-spanish-cased-finetuned-pos
+228: Summary for mrm8488/bert-spanish-cased-finetuned-pos
 --------------------------------------------------
 TODO_1: In mrm8488/bert-spanish-cased-finetuned-pos the eos_token_ids has to be removed
 TODO_2: In mrm8488/bert-spanish-cased-finetuned-pos eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1915,7 +1862,27 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-234: Summary for mrm8488/bert-tiny-finetuned-squadv2
+229: Summary for mrm8488/bert-tiny-2-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/bert-tiny-2-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-tiny-2-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+230: Summary for mrm8488/bert-tiny-3-finetuned-squadv2
+--------------------------------------------------
+TODO_1: In mrm8488/bert-tiny-3-finetuned-squadv2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/bert-tiny-3-finetuned-squadv2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+231: Summary for mrm8488/bert-tiny-finetuned-squadv2
 --------------------------------------------------
 TODO_1: In mrm8488/bert-tiny-finetuned-squadv2 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1925,13 +1892,13 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-235: Summary for mrm8488/bert-uncased-finetuned-qnli
+232: Summary for mrm8488/bert-uncased-finetuned-qnli
 --------------------------------------------------
 TOK ERROR: mrm8488/bert-uncased-finetuned-qnli tokenizer can not be loaded
 Message: Model name 'mrm8488/bert-uncased-finetuned-qnli' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'mrm8488/bert-uncased-finetuned-qnli' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-236: Summary for mrm8488/codeBERTaJS
+233: Summary for mrm8488/codeBERTaJS
 --------------------------------------------------
 TODO_1: In mrm8488/codeBERTaJS the eos_token_ids has to be removed
 TODO_2: In mrm8488/codeBERTaJS eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
@@ -1948,7 +1915,7 @@ BOS in Tokenizer: 0 | BOS in Config: None
 Config needs change!
 ==================================================
 
-237: Summary for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
+234: Summary for mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es
 --------------------------------------------------
 TODO_1: In mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es the eos_token_ids has to be removed
 TODO_2: In mrm8488/distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -1965,7 +1932,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-238: Summary for mrm8488/spanbert-finetuned-squadv1
+235: Summary for mrm8488/spanbert-finetuned-squadv1
 --------------------------------------------------
 TODO_1: In mrm8488/spanbert-finetuned-squadv1 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1975,7 +1942,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-239: Summary for mrm8488/spanbert-finetuned-squadv2
+236: Summary for mrm8488/spanbert-finetuned-squadv2
 --------------------------------------------------
 TODO_1: In mrm8488/spanbert-finetuned-squadv2 the eos_token_ids has to be removed
 --------------------------------------------------
@@ -1985,25 +1952,25 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-240: Summary for mrm8488/xlm-multi-finetuned-xquadv1
+237: Summary for mrm8488/xlm-multi-finetuned-xquadv1
 --------------------------------------------------
 TODO_1: In mrm8488/xlm-multi-finetuned-xquadv1 the eos_token_ids has to be removed
 --------------------------------------------------
 ==================================================
 
-241: Summary for neuralmind/bert-base-portuguese-cased
+238: Summary for neuralmind/bert-base-portuguese-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-242: Summary for neuralmind/bert-large-portuguese-cased
+239: Summary for neuralmind/bert-large-portuguese-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-243: Summary for nlpaueb/bert-base-greek-uncased-v1
+240: Summary for nlpaueb/bert-base-greek-uncased-v1
 --------------------------------------------------
 TODO_1: In nlpaueb/bert-base-greek-uncased-v1 the eos_token_ids has to be removed
 TODO_2: In nlpaueb/bert-base-greek-uncased-v1 eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -2017,55 +1984,55 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-244: Summary for nlptown/bert-base-multilingual-uncased-sentiment
+241: Summary for nlptown/bert-base-multilingual-uncased-sentiment
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-245: Summary for oda/music5
+242: Summary for oda/music5
 --------------------------------------------------
 CONF ERROR: oda/music5 config can not be loaded
 Message: Unrecognized model in oda/music5. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-246: Summary for openai-gpt
+243: Summary for openai-gpt
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-247: Summary for pdelobelle/robBERT-base
+244: Summary for pdelobelle/robBERT-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-248: Summary for pdelobelle/robBERT-dutch-books
+245: Summary for pdelobelle/robBERT-dutch-books
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-249: Summary for pertschuk/albert-base-quora-classifier
+246: Summary for pertschuk/albert-base-quora-classifier
 --------------------------------------------------
 TOK ERROR: pertschuk/albert-base-quora-classifier tokenizer can not be loaded
 Message: Model name 'pertschuk/albert-base-quora-classifier' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'pertschuk/albert-base-quora-classifier' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-250: Summary for pertschuk/albert-base-squad-classifier-ms
+247: Summary for pertschuk/albert-base-squad-classifier-ms
 --------------------------------------------------
 TOK ERROR: pertschuk/albert-base-squad-classifier-ms tokenizer can not be loaded
 Message: Model name 'pertschuk/albert-base-squad-classifier-ms' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'pertschuk/albert-base-squad-classifier-ms' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-251: Summary for pertschuk/albert-base-squad-classifier
+248: Summary for pertschuk/albert-base-squad-classifier
 --------------------------------------------------
 TOK ERROR: pertschuk/albert-base-squad-classifier tokenizer can not be loaded
 Message: Model name 'pertschuk/albert-base-squad-classifier' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'pertschuk/albert-base-squad-classifier' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-252: Summary for pertschuk/albert-large-intent-v2
+249: Summary for pertschuk/albert-large-intent-v2
 --------------------------------------------------
 TODO_1: In pertschuk/albert-large-intent-v2 the eos_token_ids has to be removed
 TODO_2: In pertschuk/albert-large-intent-v2 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
@@ -2082,7 +2049,7 @@ BOS in Tokenizer: 2 | BOS in Config: None
 Config needs change!
 ==================================================
 
-253: Summary for pertschuk/albert-large-intent-v3
+250: Summary for pertschuk/albert-large-intent-v3
 --------------------------------------------------
 TODO_1: In pertschuk/albert-large-intent-v3 the eos_token_ids has to be removed
 TODO_2: In pertschuk/albert-large-intent-v3 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
@@ -2099,7 +2066,7 @@ BOS in Tokenizer: 2 | BOS in Config: None
 Config needs change!
 ==================================================
 
-254: Summary for pertschuk/bert-large-uncased-msmarco
+251: Summary for pertschuk/bert-large-uncased-msmarco
 --------------------------------------------------
 TODO_1: In pertschuk/bert-large-uncased-msmarco the eos_token_ids has to be removed
 --------------------------------------------------
@@ -2109,7 +2076,7 @@ PAD in Tokenizer: 0 | PAD in Config: None
 Config needs change!
 ==================================================
 
-255: Summary for ponteineptique/latin-classical-small
+252: Summary for ponteineptique/latin-classical-small
 --------------------------------------------------
 TODO_1: In ponteineptique/latin-classical-small the eos_token_ids has to be removed
 TODO_2: In ponteineptique/latin-classical-small eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -2123,85 +2090,49 @@ EOS in Tokenizer: None |EOS in Config: 0
 Config needs change!
 ==================================================
 
-256: Summary for radha1258/save
+253: Summary for radha1258/save
 --------------------------------------------------
 CONF ERROR: radha1258/save config can not be loaded
 Message: Unrecognized model in radha1258/save. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-257: Summary for bertabs-finetuned-cnndm-extractive-abstractive-summarization
---------------------------------------------------
-CONF ERROR: bertabs-finetuned-cnndm-extractive-abstractive-summarization config can not be loaded
-Message: Can't load 'bertabs-finetuned-cnndm-extractive-abstractive-summarization'. Make sure that:
-
-- 'bertabs-finetuned-cnndm-extractive-abstractive-summarization' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'bertabs-finetuned-cnndm-extractive-abstractive-summarization' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-258: Summary for bertabs-finetuned-extractive-abstractive-summarization
---------------------------------------------------
-CONF ERROR: bertabs-finetuned-extractive-abstractive-summarization config can not be loaded
-Message: Can't load 'bertabs-finetuned-extractive-abstractive-summarization'. Make sure that:
-
-- 'bertabs-finetuned-extractive-abstractive-summarization' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'bertabs-finetuned-extractive-abstractive-summarization' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-259: Summary for bertabs-finetuned-xsum-extractive-abstractive-summarization
---------------------------------------------------
-CONF ERROR: bertabs-finetuned-xsum-extractive-abstractive-summarization config can not be loaded
-Message: Can't load 'bertabs-finetuned-xsum-extractive-abstractive-summarization'. Make sure that:
-
-- 'bertabs-finetuned-xsum-extractive-abstractive-summarization' is a correct model identifier listed on 'https://huggingface.co/models'
-
-- or 'bertabs-finetuned-xsum-extractive-abstractive-summarization' is the correct path to a directory containing a 'config.json' file
-
-
-==================================================
-
-260: Summary for replydotai/albert-xxlarge-v1-finetuned-squad2
+254: Summary for replydotai/albert-xxlarge-v1-finetuned-squad2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-261: Summary for roberta-base
+255: Summary for roberta-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-262: Summary for roberta-base-openai-detector
+256: Summary for roberta-base-openai-detector
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-263: Summary for roberta-large
+257: Summary for roberta-large
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-264: Summary for roberta-large-mnli
+258: Summary for roberta-large-mnli
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-265: Summary for roberta-large-openai-detector
+259: Summary for roberta-large-openai-detector
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-266: Summary for severinsimmler/german-press-bert
+260: Summary for severinsimmler/german-press-bert
 --------------------------------------------------
 TODO_1: In severinsimmler/german-press-bert the eos_token_ids has to be removed
 TODO_2: In severinsimmler/german-press-bert eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -2215,7 +2146,7 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-267: Summary for severinsimmler/literary-german-bert
+261: Summary for severinsimmler/literary-german-bert
 --------------------------------------------------
 TODO_1: In severinsimmler/literary-german-bert the eos_token_ids has to be removed
 TODO_2: In severinsimmler/literary-german-bert eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
@@ -2229,67 +2160,67 @@ BOS in Tokenizer: None | BOS in Config: 0
 Config needs change!
 ==================================================
 
-268: Summary for srush/bert_uncased_L-2_H-128_A-2
+262: Summary for srush/bert_uncased_L-2_H-128_A-2
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-269: Summary for subbareddyiiit/iiit
+263: Summary for subbareddyiiit/iiit
 --------------------------------------------------
 CONF ERROR: subbareddyiiit/iiit config can not be loaded
 Message: Unrecognized model in subbareddyiiit/iiit. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-270: Summary for subbareddyiiit/music_cog
+264: Summary for subbareddyiiit/music_cog
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-271: Summary for subbareddyiiit/tftelugu
+265: Summary for subbareddyiiit/tftelugu
 --------------------------------------------------
 CONF ERROR: subbareddyiiit/tftelugu config can not be loaded
 Message: Unrecognized model in subbareddyiiit/tftelugu. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-272: Summary for t5-11b
+266: Summary for t5-11b
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-273: Summary for t5-3b
+267: Summary for t5-3b
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-274: Summary for t5-base
+268: Summary for t5-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-275: Summary for t5-large
+269: Summary for t5-large
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-276: Summary for t5-small
+270: Summary for t5-small
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-277: Summary for transfo-xl-wt103
+271: Summary for transfo-xl-wt103
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-278: Summary for twmkn9/albert-base-v2-squad2
+272: Summary for twmkn9/albert-base-v2-squad2
 --------------------------------------------------
 TODO_1: In twmkn9/albert-base-v2-squad2 the eos_token_ids has to be removed
 TODO_2: In twmkn9/albert-base-v2-squad2 eos_token_ids is None but default eos_token_id is 3 - Adapt on AWS
@@ -2306,61 +2237,71 @@ BOS in Tokenizer: 2 | BOS in Config: None
 Config needs change!
 ==================================================
 
-279: Summary for unilm-base-cased
+273: Summary for twmkn9/bert-base-uncased-squad2
+--------------------------------------------------
+TODO_1: In twmkn9/bert-base-uncased-squad2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for twmkn9/bert-base-uncased-squad2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+274: Summary for unilm-base-cased
 --------------------------------------------------
 CONF ERROR: unilm-base-cased config can not be loaded
 Message: Unrecognized model in unilm-base-cased. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-280: Summary for unilm-large-cased
+275: Summary for unilm-large-cased
 --------------------------------------------------
 CONF ERROR: unilm-large-cased config can not be loaded
 Message: Unrecognized model in unilm-large-cased. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: t5, distilbert, albert, camembert, xlm-roberta, bart, roberta, flaubert, bert, openai-gpt, gpt2, transfo-xl, xlnet, xlm, ctrl
 ==================================================
 
-281: Summary for voidful/albert_chinese_base
+276: Summary for voidful/albert_chinese_base
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_base tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_base' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_base' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-282: Summary for voidful/albert_chinese_large
+277: Summary for voidful/albert_chinese_large
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_large tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_large' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_large' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-283: Summary for voidful/albert_chinese_small
+278: Summary for voidful/albert_chinese_small
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_small tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_small' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_small' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-284: Summary for voidful/albert_chinese_tiny
+279: Summary for voidful/albert_chinese_tiny
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_tiny tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_tiny' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_tiny' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-285: Summary for voidful/albert_chinese_xlarge
+280: Summary for voidful/albert_chinese_xlarge
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_xlarge tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_xlarge' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_xlarge' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-286: Summary for voidful/albert_chinese_xxlarge
+281: Summary for voidful/albert_chinese_xxlarge
 --------------------------------------------------
 TOK ERROR: voidful/albert_chinese_xxlarge tokenizer can not be loaded
 Message: Model name 'voidful/albert_chinese_xxlarge' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'voidful/albert_chinese_xxlarge' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
 ==================================================
 
-287: Summary for voidism/12to6_distilbert
+282: Summary for voidism/12to6_distilbert
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-288: Summary for wietsedv/bert-base-dutch-cased
+283: Summary for wietsedv/bert-base-dutch-cased
 --------------------------------------------------
 --------------------------------------------------
 PAD in Tokenizer and Config not equal for wietsedv/bert-base-dutch-cased!
@@ -2369,121 +2310,305 @@ PAD in Tokenizer: 3 | PAD in Config: 0
 Config needs change!
 ==================================================
 
-289: Summary for xlm-clm-ende-1024
+284: Summary for xlm-clm-ende-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-290: Summary for xlm-clm-enfr-1024
+285: Summary for xlm-clm-enfr-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-291: Summary for xlm-mlm-100-1280
+286: Summary for xlm-mlm-100-1280
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-292: Summary for xlm-mlm-17-1280
+287: Summary for xlm-mlm-17-1280
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-293: Summary for xlm-mlm-en-2048
+288: Summary for xlm-mlm-en-2048
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-294: Summary for xlm-mlm-ende-1024
+289: Summary for xlm-mlm-ende-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-295: Summary for xlm-mlm-enfr-1024
+290: Summary for xlm-mlm-enfr-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-296: Summary for xlm-mlm-enro-1024
+291: Summary for xlm-mlm-enro-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-297: Summary for xlm-mlm-tlm-xnli15-1024
+292: Summary for xlm-mlm-tlm-xnli15-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-298: Summary for xlm-mlm-xnli15-1024
+293: Summary for xlm-mlm-xnli15-1024
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-299: Summary for xlm-roberta-base
+294: Summary for xlm-roberta-base
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-300: Summary for xlm-roberta-large
+295: Summary for xlm-roberta-large
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-301: Summary for xlm-roberta-large-finetuned-conll02-dutch
+296: Summary for xlm-roberta-large-finetuned-conll02-dutch
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-302: Summary for xlm-roberta-large-finetuned-conll02-spanish
+297: Summary for xlm-roberta-large-finetuned-conll02-spanish
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-303: Summary for xlm-roberta-large-finetuned-conll03-english
+298: Summary for xlm-roberta-large-finetuned-conll03-english
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-304: Summary for xlm-roberta-large-finetuned-conll03-german
+299: Summary for xlm-roberta-large-finetuned-conll03-german
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-305: Summary for xlnet-base-cased
+300: Summary for xlnet-base-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-306: Summary for xlnet-large-cased
+301: Summary for xlnet-large-cased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-307: Summary for yihanlin/scibert_scivocab_uncased
+302: Summary for yihanlin/scibert_scivocab_uncased
 --------------------------------------------------
 --------------------------------------------------
 All good!
 ==================================================
 
-308: Summary for yosuke/bert-base-japanese-char
+303: Summary for yosuke/bert-base-japanese-char
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+304: Summary for dslim23/bert-base-cased-NER-conll-2003
+--------------------------------------------------
+TOK ERROR: dslim23/bert-base-cased-NER-conll-2003 tokenizer can not be loaded
+Message: Model name 'dslim23/bert-base-cased-NER-conll-2003' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'dslim23/bert-base-cased-NER-conll-2003' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
+==================================================
+
+305: Summary for dslim/bert-base-NER
+--------------------------------------------------
+TODO_1: In dslim/bert-base-NER the eos_token_ids has to be removed
+TODO_2: In dslim/bert-base-NER eos_token_ids is 0 but default eos_token_id is None - Adapt on AWS
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for dslim/bert-base-NER!
+EOS in Tokenizer: None |EOS in Config: 0
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for dslim/bert-base-NER!
+BOS in Tokenizer: None | BOS in Config: 0
+--------------------------------------------------
+Config needs change!
+==================================================
+
+306: Summary for mrm8488/bert-tiny-4-finetuned-squadv2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+307: Summary for beomi/EduBERT-small-500-v1
+--------------------------------------------------
+TODO_1: In beomi/EduBERT-small-500-v1 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for beomi/EduBERT-small-500-v1!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+308: Summary for mrm8488/bert-tiny-5-finetuned-squadv2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+309: Summary for mrm8488/bert-mini-5-finetuned-squadv2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+310: Summary for mrm8488/bert-medium-finetuned-squadv2
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+311: Summary for oya163/NepBERT
+--------------------------------------------------
+TODO_1: In oya163/NepBERT the eos_token_ids has to be removed
+TODO_2: In oya163/NepBERT eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for oya163/NepBERT!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for oya163/NepBERT!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for oya163/NepBERT!
+BOS in Tokenizer: 0 | BOS in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+312: Summary for beomi/EduBERT-small-v2
+--------------------------------------------------
+TODO_1: In beomi/EduBERT-small-v2 the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for beomi/EduBERT-small-v2!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+313: Summary for gsarti/scibert-nli
+--------------------------------------------------
+TODO_1: In gsarti/scibert-nli the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for gsarti/scibert-nli!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+314: Summary for deepset/quora_dedup_bert_base
+--------------------------------------------------
+TODO_1: In deepset/quora_dedup_bert_base the eos_token_ids has to be removed
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for deepset/quora_dedup_bert_base!
+PAD in Tokenizer: 0 | PAD in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+315: Summary for mrm8488/chEMBL_smiles_v1
+--------------------------------------------------
+TODO_1: In mrm8488/chEMBL_smiles_v1 the eos_token_ids has to be removed
+TODO_2: In mrm8488/chEMBL_smiles_v1 eos_token_ids is None but default eos_token_id is 2 - Adapt on AWS
+--------------------------------------------------
+PAD in Tokenizer and Config not equal for mrm8488/chEMBL_smiles_v1!
+PAD in Tokenizer: 1 | PAD in Config: None
+--------------------------------------------------
+EOS in Tokenizer and Config not equal for mrm8488/chEMBL_smiles_v1!
+EOS in Tokenizer: 2 |EOS in Config: None
+--------------------------------------------------
+BOS in Tokenizer and Config not equal for mrm8488/chEMBL_smiles_v1!
+BOS in Tokenizer: 0 | BOS in Config: None
+--------------------------------------------------
+Config needs change!
+==================================================
+
+316: Summary for pertschuk/albert-intent-model-v3
+--------------------------------------------------
+TOK ERROR: pertschuk/albert-intent-model-v3 tokenizer can not be loaded
+Message: Model name 'pertschuk/albert-intent-model-v3' was not found in tokenizers model name list (albert-base-v1, albert-large-v1, albert-xlarge-v1, albert-xxlarge-v1, albert-base-v2, albert-large-v2, albert-xlarge-v2, albert-xxlarge-v2). We assumed 'pertschuk/albert-intent-model-v3' was a path, a model identifier, or url to a directory containing vocabulary files named ['spiece.model'] but couldn't find such vocabulary files at this path or url.
+==================================================
+
+317: Summary for deepset/covid_bert_base
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+318: Summary for dbmdz/bert-base-multilingual-cased-finetuned-conll03-dutch
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+319: Summary for dbmdz/bert-base-multilingual-cased-finetuned-conll03-spanish
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+320: Summary for remi/bertabs-finetuned-cnndm-extractive-abstractive-summarization
+--------------------------------------------------
+TOK ERROR: remi/bertabs-finetuned-cnndm-extractive-abstractive-summarization tokenizer can not be loaded
+Message: Model name 'remi/bertabs-finetuned-cnndm-extractive-abstractive-summarization' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'remi/bertabs-finetuned-cnndm-extractive-abstractive-summarization' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
+==================================================
+
+321: Summary for remi/bertabs-finetuned-extractive-abstractive-summarization
+--------------------------------------------------
+TOK ERROR: remi/bertabs-finetuned-extractive-abstractive-summarization tokenizer can not be loaded
+Message: Model name 'remi/bertabs-finetuned-extractive-abstractive-summarization' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'remi/bertabs-finetuned-extractive-abstractive-summarization' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
+==================================================
+
+322: Summary for remi/bertabs-finetuned-xsum-extractive-abstractive-summarization
+--------------------------------------------------
+TOK ERROR: remi/bertabs-finetuned-xsum-extractive-abstractive-summarization tokenizer can not be loaded
+Message: Model name 'remi/bertabs-finetuned-xsum-extractive-abstractive-summarization' was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, bert-base-finnish-cased-v1, bert-base-finnish-uncased-v1, bert-base-dutch-cased). We assumed 'remi/bertabs-finetuned-xsum-extractive-abstractive-summarization' was a path, a model identifier, or url to a directory containing vocabulary files named ['vocab.txt'] but couldn't find such vocabulary files at this path or url.
+==================================================
+
+323: Summary for albert-base-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+324: Summary for albert-large-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+325: Summary for albert-xlarge-v1
+--------------------------------------------------
+--------------------------------------------------
+All good!
+==================================================
+
+326: Summary for albert-xxlarge-v1
 --------------------------------------------------
 --------------------------------------------------
 All good!
