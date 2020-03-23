@@ -1,48 +1,0 @@
-Completed 1.1 KiB/1.1 KiB (1.5 KiB/s) with 1 file(s) remainingupload: ./DeepPavlov_bert-base-bg-cs-pl-ru-cased_config.json to s3://models.huggingface.co/bert/DeepPavlov/bert-base-bg-cs-pl-ru-cased/config.json
-Completed 964 Bytes/964 Bytes (1008 Bytes/s) with 1 file(s) remainingupload: ./DeepPavlov_bert-base-cased-conversational_config.json to s3://models.huggingface.co/bert/DeepPavlov/bert-base-cased-conversational/config.json
-Completed 1.1 KiB/1.1 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ./DeepPavlov_bert-base-multilingual-cased-sentence_config.json to s3://models.huggingface.co/bert/DeepPavlov/bert-base-multilingual-cased-sentence/config.json
-Completed 1.1 KiB/1.1 KiB (1.8 KiB/s) with 1 file(s) remainingupload: ./DeepPavlov_rubert-base-cased-conversational_config.json to s3://models.huggingface.co/bert/DeepPavlov/rubert-base-cased-conversational/config.json
-Completed 1.1 KiB/1.1 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ./DeepPavlov_rubert-base-cased-sentence_config.json to s3://models.huggingface.co/bert/DeepPavlov/rubert-base-cased-sentence/config.json
-Completed 1.1 KiB/1.1 KiB (1.3 KiB/s) with 1 file(s) remainingupload: ./DeepPavlov_rubert-base-cased_config.json to s3://models.huggingface.co/bert/DeepPavlov/rubert-base-cased/config.json
-Completed 1.4 KiB/1.4 KiB (1.4 KiB/s) with 1 file(s) remainingupload: ./KB_albert-base-v2-ner_config.json to s3://models.huggingface.co/bert/KB/albert-base-v2-ner/config.json
-Completed 1.4 KiB/1.4 KiB (2.3 KiB/s) with 1 file(s) remainingupload: ./KB_albert-large-v2-ner_config.json to s3://models.huggingface.co/bert/KB/albert-large-v2-ner/config.json
-Completed 1.4 KiB/1.4 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ./KB_albert-xlarge-v2-ner_config.json to s3://models.huggingface.co/bert/KB/albert-xlarge-v2-ner/config.json
-Completed 1.3 KiB/1.3 KiB (1.2 KiB/s) with 1 file(s) remainingupload: ./KB_bert-base-swedish-cased-ner_config.json to s3://models.huggingface.co/bert/KB/bert-base-swedish-cased-ner/config.json
-Completed 1.7 KiB/1.7 KiB (1.7 KiB/s) with 1 file(s) remainingupload: ./KB_bert-base-swedish-cased-neriob_config.json to s3://models.huggingface.co/bert/KB/bert-base-swedish-cased-neriob/config.json
-Completed 964 Bytes/964 Bytes (1.1 KiB/s) with 1 file(s) remainingupload: ./KB_bert-base-swedish-cased_config.json to s3://models.huggingface.co/bert/KB/bert-base-swedish-cased/config.json
-Completed 805 Bytes/805 Bytes (989 Bytes/s) with 1 file(s) remainingupload: ./Musixmatch_umberto-wikipedia-uncased-v1_config.json to s3://models.huggingface.co/bert/Musixmatch/umberto-wikipedia-uncased-v1/config.json
-Completed 1.0 KiB/1.0 KiB (1.5 KiB/s) with 1 file(s) remainingupload: ./absa_bert-lapt-0.1_config.json to s3://models.huggingface.co/bert/absa/bert-lapt-0.1/config.json
-Completed 1.0 KiB/1.0 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ./absa_bert-rest-0.1_config.json to s3://models.huggingface.co/bert/absa/bert-rest-0.1/config.json
-Completed 1.0 KiB/1.0 KiB (934 Bytes/s) with 1 file(s) remainingupload: ./absa_bert-rest-lapt-0.1_config.json to s3://models.huggingface.co/bert/absa/bert-rest-lapt-0.1/config.json
-Completed 1.0 KiB/1.0 KiB (1.6 KiB/s) with 1 file(s) remainingupload: ./absa_classifier-rest-0.1_config.json to s3://models.huggingface.co/bert/absa/classifier-rest-0.1/config.json
-Completed 964 Bytes/964 Bytes (1.2 KiB/s) with 1 file(s) remainingupload: ./asafaya_bert-base-arabic_config.json to s3://models.huggingface.co/bert/asafaya/bert-base-arabic/config.json
-Completed 528 Bytes/528 Bytes (613 Bytes/s) with 1 file(s) remainingupload: ./aubmindlab_bert-base-arabert_config.json to s3://models.huggingface.co/bert/aubmindlab/bert-base-arabert/config.json
-Completed 528 Bytes/528 Bytes (550 Bytes/s) with 1 file(s) remainingupload: ./aubmindlab_bert-base-arabertv01_config.json to s3://models.huggingface.co/bert/aubmindlab/bert-base-arabertv01/config.json
-Completed 993 Bytes/993 Bytes (930 Bytes/s) with 1 file(s) remainingupload: ./beomi_EduBERT-small-500-v1_config.json to s3://models.huggingface.co/bert/beomi/EduBERT-small-500-v1/config.json
-Completed 1.1 KiB/1.1 KiB (1.2 KiB/s) with 1 file(s) remainingupload: ./beomi_EduBERT-small-v2_config.json to s3://models.huggingface.co/bert/beomi/EduBERT-small-v2/config.json
-Completed 969 Bytes/969 Bytes (1.3 KiB/s) with 1 file(s) remainingupload: ./binwang_bert-base-uncased_config.json to s3://models.huggingface.co/bert/binwang/bert-base-uncased/config.json
-Completed 975 Bytes/975 Bytes (915 Bytes/s) with 1 file(s) remainingupload: ./binwang_roberta-base_config.json to s3://models.huggingface.co/bert/binwang/roberta-base/config.json
-DeepPavlov - DeepPavlov/bert-base-bg-cs-pl-ru-cased
-DeepPavlov - DeepPavlov/bert-base-cased-conversational
-DeepPavlov - DeepPavlov/bert-base-multilingual-cased-sentence
-DeepPavlov - DeepPavlov/rubert-base-cased-conversational
-DeepPavlov - DeepPavlov/rubert-base-cased-sentence
-DeepPavlov - DeepPavlov/rubert-base-cased
-KB - KB/albert-base-v2-ner
-KB - KB/albert-large-v2-ner
-KB - KB/albert-xlarge-v2-ner
-KB - KB/bert-base-swedish-cased-ner
-KB - KB/bert-base-swedish-cased-neriob
-KB - KB/bert-base-swedish-cased
-Musixmatch - Musixmatch/umberto-wikipedia-uncased-v1
-absa - absa/bert-lapt-0.1
-absa - absa/bert-rest-0.1
-absa - absa/bert-rest-lapt-0.1
-absa - absa/classifier-rest-0.1
-asafaya - asafaya/bert-base-arabic
-aubmindlab - aubmindlab/bert-base-arabert
-aubmindlab - aubmindlab/bert-base-arabertv01
-beomi - beomi/EduBERT-small-500-v1
-beomi - beomi/EduBERT-small-v2
-binwang - binwang/bert-base-uncased
-binwang - binwang/roberta-base
