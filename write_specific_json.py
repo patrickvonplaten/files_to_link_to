@@ -33,10 +33,8 @@ def main(model_identifier):
     bash_command = "rm {}".format(file_name)
     os.system(bash_command)
 
-    if 'eos_token_ids' in config_json:
-        config_json.pop('eos_token_ids')
-
-    config_json["decoder_start_token_id"] = 2
+    ##### HERE YOU SHOULD STATE WHICH PARAMS WILL BE CHANGED #####
+    # e.g. config_json["decoder_start_token_id"] = 2
 
     # save config as it was saved before
     with open(file_name, "w") as f:
