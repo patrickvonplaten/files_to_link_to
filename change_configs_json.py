@@ -22,28 +22,17 @@ def download(config_path_aws, model_identifier):
     return file_name, config_json
 
 
-api = HfApi()
-model_list = api.model_list()
-
-for model_dict in model_list:
-    model_identifier = model_dict.modelId
+def clean_token_ids(model_dict, config, model_identifier, config_json):
 
     try:
         config = AutoConfig.from_pretrained(model_identifier)
         tok = AutoTokenizer.from_pretrained(model_identifier)
     except Exception:
-        continue
+        return False
 
     DefaultClass = config.__class__
     default_config = DefaultClass()
 
-    http = 'https://s3.amazonaws.com/'
-    hf_url = 'models.huggingface.co/'
-    config_path_aws = http + hf_url + model_dict.key
-
-    model_identifier = '_'.join(model_identifier.split('/'))
-
-    path_to_config, config_json = download(config_path_aws, model_identifier)
     is_change = False
 
     if 'eos_token_ids' in config_json:
@@ -74,19 +63,43 @@ for model_dict in model_list:
         config_json['eos_token_id'] = tok.eos_token_id
         is_change = True
 
-    if is_change:
+    return is_change
 
-        if model_dict.author is not None and isinstance(model_dict.author, str):
-            print(model_dict.author + ' - ' + model_dict.modelId)
-        else:
-            print("No Author - " + model_dict.modelId)
+
+def change_model_list(change_fn, model_list=None, do_upload=False):
+    api = HfApi()
+    model_dict_list = api.model_list()
+
+    if model_list is not None:
+        model_dict_list = [model_dict for model_dict in model_dict_list if model_dict.modelId in model_list]
+
+    for model_dict in model_dict_list:
+        model_identifier = model_dict.modelId
+
+        http = 'https://s3.amazonaws.com/'
+        hf_url = 'models.huggingface.co/'
+        config_path_aws = http + hf_url + model_dict.key
+        model_identifier = '_'.join(model_identifier.split('/'))
+        path_to_config, config_json = download(config_path_aws, model_identifier)
+
+        config_json = change_fn(config_json)
+
         # save config as it was saved before
         with open(path_to_config, 'w') as f:
             json.dump(config_json, f, indent=2, sort_keys=True)
 
-        # upload new config
-        bash_command = 'aws s3 cp {} s3://{}'.format(path_to_config, hf_url + model_dict.key)
-        os.system(bash_command)
+        if do_upload is True:
+            # upload new config
+            bash_command = 'aws s3 cp {} s3://{}'.format(path_to_config, hf_url + model_dict.key)
+            os.system(bash_command)
 
-        # delete saved config
-        os.system('rm {}'.format(path_to_config))
+            # delete saved config
+            os.system('rm {}'.format(path_to_config))
+
+
+def bart_prefix(config_json):
+    config_json['prefix'] = " "
+    return config_json
+
+
+change_model_list(bart_prefix, model_list=['sshleifer/bart-tiny-random', 'facebook/bart-large-cnn', 'facebook/bart-large-xsum', 'facebook/bart-large'], do_upload=True)
