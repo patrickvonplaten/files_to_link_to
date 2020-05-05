@@ -66,15 +66,20 @@ def clean_token_ids(model_dict, config, model_identifier, config_json):
     return is_change
 
 
-def change_model_list(change_fn, model_list=None, do_upload=False):
+def change_model_list(change_fn, model_list=None, do_upload=False, key_word=None):
     api = HfApi()
     model_dict_list = api.model_list()
 
     if model_list is not None:
         model_dict_list = [model_dict for model_dict in model_dict_list if model_dict.modelId in model_list]
 
+    if key_word is not None:
+        model_dict_list = [model_dict for model_dict in model_dict_list if key_word in model_dict.modelId]
+
     for model_dict in model_dict_list:
         model_identifier = model_dict.modelId
+
+        print("model_identifier")
 
         http = 'https://s3.amazonaws.com/'
         hf_url = 'models.huggingface.co/'
@@ -93,13 +98,28 @@ def change_model_list(change_fn, model_list=None, do_upload=False):
             bash_command = 'aws s3 cp {} s3://{}'.format(path_to_config, hf_url + model_dict.key)
             os.system(bash_command)
 
-            # delete saved config
-            os.system('rm {}'.format(path_to_config))
+        # delete saved config
+        os.system('rm {}'.format(path_to_config))
 
 
 def bart_prefix(config_json):
-    config_json['prefix'] = " "
+    del config_json['intermediate_size']
+    del config_json['chunk_length']
+    config_json['lsh_attn_chunk_length'] = 64
+    config_json['local_attn_chunk_length'] = 64
     return config_json
 
 
-change_model_list(bart_prefix, model_list=['sshleifer/bart-tiny-random', 'facebook/bart-large-cnn', 'facebook/bart-large-xsum', 'facebook/bart-large'], do_upload=True)
+def set_hash_seed(config_json):
+    del config_json['sinusoidal_pos_embds']
+    del config_json['type_vocab_size']
+    config_json['model_type'] = "reformer"
+    return config_json
+
+
+def print_padding_id(config_json):
+    if 'pad_token_id' in config_json:
+        print("pad_token_id:", config_json['pad_token_id'])
+
+
+change_model_list(print_padding_id, do_upload=False, key_word="roberta")

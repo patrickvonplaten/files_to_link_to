@@ -4,7 +4,7 @@ from transformers.hf_api import HfApi
 import os
 
 
-def clean_all_community_configs(model_list=None, do_upload=False):
+def clean_all_community_configs(model_list=None, do_upload=False, do_delete=True):
     api = HfApi()
     model_dict_list = api.model_list()
 
@@ -36,6 +36,10 @@ def clean_all_community_configs(model_list=None, do_upload=False):
 
         # save config locally to only use diff
         config.save_pretrained(temp_dir)
+        diff_config = AutoConfig.from_pretrained(os.path.join(temp_dir, 'config.json'))
+
+        if config != diff_config:
+            print("Author: {} needs to be notified about changed conf: {}".format(model_dict.author, model_identifier))
 
         if do_upload is True:
             # upload new config
@@ -43,7 +47,12 @@ def clean_all_community_configs(model_list=None, do_upload=False):
             os.system(bash_command)
 
             # delete saved config
+        
+        if do_delete is True:
             os.system('rm -r {}'.format(temp_dir))
 
+        print(50 * '=')
 
-clean_all_community_configs(model_list=['patrickvonplaten/reformer-crime-and-punish'], do_upload=True)
+
+#clean_all_community_configs(['patrickvonplaten/reformer-crime-and-punish'], do_upload=False, do_delete=True)
+clean_all_community_configs(do_upload=True, do_delete=True)
