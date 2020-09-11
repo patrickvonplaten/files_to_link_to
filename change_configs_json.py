@@ -98,8 +98,8 @@ def change_model_list(change_fn, model_list=None, do_upload=False, key_word=None
             bash_command = 'aws s3 cp {} s3://{}'.format(path_to_config, hf_url + model_dict.key)
             os.system(bash_command)
 
-        # delete saved config
-        os.system('rm {}'.format(path_to_config))
+            # delete saved config
+            os.system('rm {}'.format(path_to_config))
 
 
 def bart_prefix(config_json):
@@ -117,9 +117,22 @@ def set_hash_seed(config_json):
     return config_json
 
 
+def change_model(config_json):
+    config_json["encoder"]["model_type"] = 'bert-generation'
+    config_json["decoder"]["model_type"] = 'bert-generation'
+    return config_json
+
+
+def change_single_model(config_json):
+    config_json["model_type"] = 'bert-generation'
+    return config_json
+
+
 def print_padding_id(config_json):
     if 'pad_token_id' in config_json:
         print("pad_token_id:", config_json['pad_token_id'])
 
 
-change_model_list(print_padding_id, do_upload=False, key_word="roberta")
+change_model_list(change_model, do_upload=True, key_word="google/bert2bert")
+change_model_list(change_model, do_upload=True, key_word="google/roberta2roberta")
+change_model_list(change_single_model, do_upload=True, key_word="google/bert_for_seq_generation")
