@@ -1,0 +1,991 @@
+14:01:05.559071 git.c:418               trace: built-in: git push
+14:01:05.559395 run-command.c:643       trace: run_command: GIT_DIR=.git git-remote-https origin https://huggingface.co/google/t5-11b-ssm-nq
+* Expire in 0 ms for 6 (transfer 0x56240f1d8730)
+* Couldn't find host huggingface.co in the .netrc file; using defaults
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 0 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 1 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 3 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 3 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 2 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 3 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 3 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 5 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 5 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 4 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 6 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 6 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 8 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 8 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 8 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 8 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 10 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 10 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 8 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 10 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 10 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 16 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 13 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 13 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 16 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 14 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 14 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 16 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 16 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 32 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+* Expire in 50 ms for 1 (transfer 0x56240f1d8730)
+*   Trying 192.99.39.165...
+* TCP_NODELAY set
+* Expire in 200 ms for 4 (transfer 0x56240f1d8730)
+* Connected to huggingface.co (192.99.39.165) port 443 (#0)
+* found 378 certificates in /etc/ssl/certs
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* SSL connection using TLS1.2 / ECDHE_RSA_AES_256_GCM_SHA384
+* 	 server certificate verification OK
+* 	 server certificate status verification SKIPPED
+* 	 common name: huggingface.co (matched)
+* 	 server certificate expiration date OK
+* 	 server certificate activation date OK
+* 	 certificate public key: RSA
+* 	 certificate version: #3
+* 	 subject: CN=huggingface.co
+* 	 start date: Tue, 10 Nov 2020 08:05:46 GMT
+* 	 expire date: Mon, 08 Feb 2021 08:05:46 GMT
+* 	 issuer: C=US,O=Let's Encrypt,CN=Let's Encrypt Authority X3
+* 	 compression: NULL
+* ALPN, server accepted to use http/1.1
+> GET /google/t5-11b-ssm-nq/info/refs?service=git-receive-pack HTTP/1.1
+Host: huggingface.co
+User-Agent: git/2.20.1
+Accept: */*
+Accept-Encoding: deflate, gzip
+Accept-Language: C, *;q=0.9
+Pragma: no-cache
+
+< HTTP/1.1 401 Unauthorized
+< Server: nginx/1.14.2
+< Date: Tue, 24 Nov 2020 14:01:05 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 12
+< Connection: keep-alive
+< X-Powered-By: huggingface-moon
+< WWW-Authenticate: Basic realm="Authentication required", charset="UTF-8"
+< ETag: W/"c-dAuDFQrdjS3hezqxDTNgW7AOlYk"
+< 
+* Connection #0 to host huggingface.co left intact
+* Expire in 0 ms for 6 (transfer 0x56240f1d8730)
+* Found bundle for host huggingface.co: 0x56240f1c0a80 [can pipeline]
+* Could pipeline, but not asked to!
+* Re-using existing connection! (#0) with host huggingface.co
+* Connected to huggingface.co (192.99.39.165) port 443 (#0)
+* Expire in 0 ms for 6 (transfer 0x56240f1d8730)
+* Server auth using Basic with user 'patrickvonplaten'
+> GET /google/t5-11b-ssm-nq/info/refs?service=git-receive-pack HTTP/1.1
+Host: huggingface.co
+Authorization: Basic cGF0cmlja3ZvbnBsYXRlbjpCYXkwNExldi4=
+User-Agent: git/2.20.1
+Accept: */*
+Accept-Encoding: deflate, gzip
+Accept-Language: C, *;q=0.9
+Pragma: no-cache
+
+< HTTP/1.1 200 OK
+< Server: nginx/1.14.2
+< Date: Tue, 24 Nov 2020 14:01:13 GMT
+< Content-Type: application/x-git-receive-pack-advertisement
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< X-Powered-By: huggingface-moon
+< 
+* Connection #0 to host huggingface.co left intact
+14:01:13.291488 run-command.c:643       trace: run_command: .git/hooks/pre-push origin https://huggingface.co/google/t5-11b-ssm-nq
+14:01:13.296933 git.c:669               trace: exec: git-lfs pre-push origin https://huggingface.co/google/t5-11b-ssm-nq
+14:01:13.297048 run-command.c:643       trace: run_command: git-lfs pre-push origin https://huggingface.co/google/t5-11b-ssm-nq
+14:01:13.325334 trace git-lfs: exec: git 'version'
+14:01:13.329098 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'remote' '-v'
+14:01:13.331513 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'remote'
+14:01:13.333111 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'rev-parse' 'HEAD' '--symbolic-full-name' 'HEAD'
+14:01:13.338548 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'rev-parse' '--git-dir' '--show-toplevel'
+14:01:13.340031 trace git-lfs: exec: git 'config' '-l'
+14:01:13.341464 trace git-lfs: exec: git 'rev-parse' '--is-bare-repository'
+14:01:13.342752 trace git-lfs: exec: git 'config' '-l' '--blob' ':.lfsconfig'
+14:01:13.344203 trace git-lfs: exec: git 'config' '-l' '--blob' 'HEAD:.lfsconfig'
+14:01:13.346546 trace git-lfs: pre-push: refs/heads/main 172d7633ec6cb69a98a0a53d982854d804219704 refs/heads/main e2ba196c7159d188eb86708e04156ee6ad0932c1
+14:01:13.346683 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'show-ref'
+14:01:13.348252 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'ls-remote' '--heads' '--tags' '-q' 'origin'
+14:01:13.738610 trace git-lfs: tq: running as batched queue, batch size of 100
+14:01:13.738832 trace git-lfs: run_command: git rev-list --objects --ignore-missing --stdin --
+14:01:13.739379 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'cat-file' '--batch-check'
+14:01:13.739757 trace git-lfs: exec: git '-c' 'filter.lfs.smudge=' '-c' 'filter.lfs.clean=' '-c' 'filter.lfs.process=' '-c' 'filter.lfs.required=false' 'rev-parse' '--git-common-dir'
+14:01:13.773219 trace git-lfs: tq: sending batch of size 2
+14:01:13.774474 trace git-lfs: api: batch 2 files
+14:01:13.774853 trace git-lfs: creds: git credential fill ("https", "huggingface.co", "")
+14:01:13.776326 git.c:418               trace: built-in: git credential fill
+14:01:18.750417 trace git-lfs: Filled credentials for https://huggingface.co/google/t5-11b-ssm-nq
+14:01:18.751144 trace git-lfs: HTTP: POST https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/batch
+> POST /google/t5-11b-ssm-nq.git/info/lfs/objects/batch HTTP/1.1
+> Host: huggingface.co
+> Accept: application/vnd.git-lfs+json; charset=utf-8
+> Authorization: Basic * * * * *
+> Content-Length: 311
+> Content-Type: application/vnd.git-lfs+json; charset=utf-8
+> User-Agent: git-lfs/2.12.1 (GitHub; linux amd64; go 1.13.4)
+> 
+{"operation":"upload","objects":[{"oid":"861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5","size":45230323704},{"oid":"1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656","size":45229523417}],"transfers":["basic","lfs-standalone-file","multipart"],"ref":{"name":"refs/heads/main"}}14:01:19.628634 trace git-lfs: HTTP: 200
+
+
+< HTTP/1.1 200 OK
+< Content-Length: 11968
+< Connection: keep-alive
+< Content-Type: application/vnd.git-lfs+json; charset=utf-8
+< Date: Tue, 24 Nov 2020 14:01:19 GMT
+< Etag: W/"2ec0-M94FFK1gUv2YuAII3wUWrmt0XqQ"
+< Server: nginx/1.14.2
+< X-Powered-By: huggingface-moon
+< 
+14:01:19.628793 trace git-lfs: creds: git credential approve ("https", "huggingface.co", "")
+14:01:19.630792 git.c:418               trace: built-in: git credential approve
+14:01:19.631446 trace git-lfs: HTTP: {"transfer":"multipart","objects":[{"oid":"861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5","size":45230323704,"authenticated":true,"actions":{"upload":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","expires_in":3600,"header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a
+{"transfer":"multipart","objects":[{"oid":"861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5","size":45230323704,"authenticated":true,"actions":{"upload":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","expires_in":3600,"header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a14:01:19.631534 trace git-lfs: HTTP: 02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=85d4ffee812dcdc16f04dae4708fb4ad9238f21e470b0baaadb63ef8df3fdd95&X-Amz-SignedHeaders=host&partNumber=1&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=3f7e50787b6a720479842c3be6810dc8fa18445ce7f559e94ac95f54be8e513c&X-Amz-SignedHeaders=host&partNumber=2&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn"
+02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=85d4ffee812dcdc16f04dae4708fb4ad9238f21e470b0baaadb63ef8df3fdd95&X-Amz-SignedHeaders=host&partNumber=1&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=3f7e50787b6a720479842c3be6810dc8fa18445ce7f559e94ac95f54be8e513c&X-Amz-SignedHeaders=host&partNumber=2&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn"14:01:19.631550 trace git-lfs: HTTP: ,"3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=4e99d648e326a486ac1ad95b7062694a8b56051594cde058b2b07e113c7bac50&X-Amz-SignedHeaders=host&partNumber=3&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=b6d8c280e78962c4af4565ccf41d71b0992c3c27c58adc2c7f45636a547636a1&X-Amz-SignedHeaders=host&partNumber=4&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=004758412b80e4dfa7a6b87ab23e4f61444ba1fd6ccc8d4dcab5267e472a7695&X-Amz-SignedHeaders=host&partNumber=5&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=0f417255b28007e2de762ae3ec214fc25da2c1ab2abd2a2a4189edc3ab9a065e&X-Amz-Si
+,"3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=4e99d648e326a486ac1ad95b7062694a8b56051594cde058b2b07e113c7bac50&X-Amz-SignedHeaders=host&partNumber=3&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=b6d8c280e78962c4af4565ccf41d71b0992c3c27c58adc2c7f45636a547636a1&X-Amz-SignedHeaders=host&partNumber=4&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=004758412b80e4dfa7a6b87ab23e4f61444ba1fd6ccc8d4dcab5267e472a7695&X-Amz-SignedHeaders=host&partNumber=5&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=0f417255b28007e2de762ae3ec214fc25da2c1ab2abd2a2a4189edc3ab9a065e&X-Amz-Si14:01:19.631579 trace git-lfs: HTTP: gnedHeaders=host&partNumber=6&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a
+gnedHeaders=host&partNumber=6&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a14:01:19.631592 trace git-lfs: HTTP: 02df2f4e9ca7997078aceac8215
+02df2f4e9ca7997078aceac821514:01:19.631608 trace git-lfs: HTTP: 78e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=0c718f1138dc2f6aae8f4c8ddd5850932a79653181d7a59419a2745e7d315522&X-Amz-SignedHeaders=host&partNumber=7&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=2434a31fd86d6a5c4ea9349fc0bf66f7a165e62c2815009633550af5ee4556b8&X-Amz-SignedHeaders=host&partNumber=8&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=088f695482b402d4621a97fda923d1f21ad7d55f27159b7a08a2cf244d68d999&X-Amz-SignedHeaders=host&partNumber=9&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=563d37ecde0ef76905f315952592618500da13d904e0a4f6c793dd9a5bd5fb4c&X-Amz-SignedHeaders=host&partNumber=10&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","chunk_size":"5000000000"}}}},{"oid":"1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656","size":45229523417,"authenticated":true,"actions":{"upload":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","expires_in":3600,"header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=28702525e98edafff1353d86a8be71bc8638f853616e43ad653de2214ab97691&X-Amz-SignedHeaders=host&partNumber=1&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=86dccbab48bc820a97763a11c2a6204d0a2979be4c92aaf9b7de0d35cb6f5f36&X-Amz-SignedHeaders=host&partNumber=2&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Cre
+78e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=0c718f1138dc2f6aae8f4c8ddd5850932a79653181d7a59419a2745e7d315522&X-Amz-SignedHeaders=host&partNumber=7&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=2434a31fd86d6a5c4ea9349fc0bf66f7a165e62c2815009633550af5ee4556b8&X-Amz-SignedHeaders=host&partNumber=8&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=088f695482b402d4621a97fda923d1f21ad7d55f27159b7a08a2cf244d68d999&X-Amz-SignedHeaders=host&partNumber=9&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=563d37ecde0ef76905f315952592618500da13d904e0a4f6c793dd9a5bd5fb4c&X-Amz-SignedHeaders=host&partNumber=10&uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","chunk_size":"5000000000"}}}},{"oid":"1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656","size":45229523417,"authenticated":true,"actions":{"upload":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","expires_in":3600,"header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=28702525e98edafff1353d86a8be71bc8638f853616e43ad653de2214ab97691&X-Amz-SignedHeaders=host&partNumber=1&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=86dccbab48bc820a97763a11c2a6204d0a2979be4c92aaf9b7de0d35cb6f5f36&X-Amz-SignedHeaders=host&partNumber=2&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Cre14:01:19.631649 trace git-lfs: HTTP: dential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=1efc4a2a122ebd7bf2f3befa1c3d34f6b839d1e1ca3f80f5577023959a77141f&X-Amz-SignedHeaders=host&partNumber=3&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60
+dential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=1efc4a2a122ebd7bf2f3befa1c3d34f6b839d1e1ca3f80f5577023959a77141f&X-Amz-SignedHeaders=host&partNumber=3&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC6014:01:19.631776 trace git-lfs: HTTP: hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=12810b39774a4d0805b5c089ee0161504e61a5da3083967f8f43e44fee7bd6ad&X-Amz-SignedHeaders=host&partNumber=4&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=672291584f08163ed14d1e2344375e6a69b64861661035ce6de5729006f1e327&X-Amz-SignedHeaders=host&partNumber=5&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=1ec9dbf25d495dcb445968d8f8a8a0b0c274db9b8142f07e186b3c585c343e39&X-Amz-SignedHeaders=host&partNumber=6&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=4f9451f2f03c38271c5eca8340ba97f367871ee7ddfb9232fe85c8d8876508e6&X-Amz-SignedHeaders=host&partNumber=7&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=5ab27d3d68982fddca5a5f1bdb4046325b700afac8559d5d1ca2e951de6c5893&X-Amz-SignedHeaders=host&partNumber=8&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=3020ce033431f8c1410a6fcb4f0ab9839e99d7de3f302209b7bdccb173d6201b&X-Amz-SignedHeaders=host&partNumber=9&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=2abbc0dd6067b893dafba7cca6ce7c13ec1c5b17ee0543e5e01e9c5a3a5988b8&X-Amz-SignedHeaders=host&partNumber=10&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","chunk_size":"5000000000"}}}}]}
+hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=12810b39774a4d0805b5c089ee0161504e61a5da3083967f8f43e44fee7bd6ad&X-Amz-SignedHeaders=host&partNumber=4&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=672291584f08163ed14d1e2344375e6a69b64861661035ce6de5729006f1e327&X-Amz-SignedHeaders=host&partNumber=5&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=1ec9dbf25d495dcb445968d8f8a8a0b0c274db9b8142f07e186b3c585c343e39&X-Amz-SignedHeaders=host&partNumber=6&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=4f9451f2f03c38271c5eca8340ba97f367871ee7ddfb9232fe85c8d8876508e6&X-Amz-SignedHeaders=host&partNumber=7&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=5ab27d3d68982fddca5a5f1bdb4046325b700afac8559d5d1ca2e951de6c5893&X-Amz-SignedHeaders=host&partNumber=8&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=3020ce033431f8c1410a6fcb4f0ab9839e99d7de3f302209b7bdccb173d6201b&X-Amz-SignedHeaders=host&partNumber=9&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201124T140119Z&X-Amz-Expires=3600&X-Amz-Signature=2abbc0dd6067b893dafba7cca6ce7c13ec1c5b17ee0543e5e01e9c5a3a5988b8&X-Amz-SignedHeaders=host&partNumber=10&uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","chunk_size":"5000000000"}}}}]}14:01:19.632304 trace git-lfs: tq: starting transfer adapter "multipart"
+14:01:19.632328 trace git-lfs: xfer: adapter "multipart" Begin() with 8 workers
+14:01:19.632355 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 0
+14:01:19.632469 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:19.632877 trace git-lfs: xfer: Custom adapter worker 0 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:21.449433 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:21.449250: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:21.449478 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:21.449317: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:23.986440 trace git-lfs: xfer: Custom adapter worker 0 received response: {}
+14:01:23.987017 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 0 OK
+14:01:23.987074 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 1
+14:01:23.987134 trace git-lfs: xfer: adapter "multipart" worker 0 starting
+14:01:23.987374 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:23.987870 trace git-lfs: xfer: Custom adapter worker 1 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:24.872444 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:24.872288: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:24.872500 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:24.872353: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:27.099885 trace git-lfs: xfer: Custom adapter worker 1 received response: {}
+14:01:27.099931 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 1 OK
+14:01:27.099956 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 2
+14:01:27.100092 trace git-lfs: xfer: adapter "multipart" worker 1 starting
+14:01:27.100143 trace git-lfs: xfer: adapter "multipart" worker 1 waiting for Auth
+14:01:27.100130 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:27.100605 trace git-lfs: xfer: Custom adapter worker 2 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:27.987032 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:27.986821: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:27.987084 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:27.986883: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:30.209905 trace git-lfs: xfer: Custom adapter worker 2 received response: {}
+14:01:30.209953 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 2 OK
+14:01:30.209975 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 3
+14:01:30.210038 trace git-lfs: xfer: adapter "multipart" worker 2 starting
+14:01:30.210081 trace git-lfs: xfer: adapter "multipart" worker 2 waiting for Auth
+14:01:30.210139 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:30.210496 trace git-lfs: xfer: Custom adapter worker 3 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:31.117203 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:31.117059: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:31.117259 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:31.117101: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:33.574103 trace git-lfs: xfer: Custom adapter worker 3 received response: {}
+14:01:33.574166 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 3 OK
+14:01:33.574207 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 4
+14:01:33.574384 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:33.574386 trace git-lfs: xfer: adapter "multipart" worker 3 starting
+14:01:33.574452 trace git-lfs: xfer: adapter "multipart" worker 3 waiting for Auth
+14:01:33.574880 trace git-lfs: xfer: Custom adapter worker 4 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:34.543102 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:34.542938: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:34.543160 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:34.543017: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:37.018253 trace git-lfs: xfer: Custom adapter worker 4 received response: {}
+14:01:37.018298 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 4 OK
+14:01:37.018318 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 5
+14:01:37.018451 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:37.018540 trace git-lfs: xfer: adapter "multipart" worker 4 starting
+14:01:37.018581 trace git-lfs: xfer: adapter "multipart" worker 4 waiting for Auth
+14:01:37.018926 trace git-lfs: xfer: Custom adapter worker 5 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:38.142501 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:38.142323: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:38.142538 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:38.142368: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:40.659518 trace git-lfs: xfer: Custom adapter worker 5 received response: {}
+14:01:40.659583 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 5 OK
+14:01:40.659616 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 6
+14:01:40.659693 trace git-lfs: xfer: adapter "multipart" worker 5 starting
+14:01:40.659763 trace git-lfs: xfer: adapter "multipart" worker 5 waiting for Auth
+14:01:40.659889 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:40.660437 trace git-lfs: xfer: Custom adapter worker 6 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:41.997061 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:41.996893: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:41.997122 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:41.996952: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:44.556247 trace git-lfs: xfer: Custom adapter worker 6 received response: {}
+14:01:44.556296 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 6 OK
+14:01:44.556320 trace git-lfs: xfer: starting up custom transfer process "multipart" for worker 7
+14:01:44.556383 trace git-lfs: xfer: adapter "multipart" worker 6 starting
+14:01:44.556427 trace git-lfs: xfer: adapter "multipart" worker 6 waiting for Auth
+14:01:44.556431 trace git-lfs: exec: sh '-c' 'transformers-cli lfs-multipart-upload'
+14:01:44.556739 trace git-lfs: xfer: Custom adapter worker 7 sending message: {"event":"init","operation":"upload","remote":"origin","concurrent":true,"concurrenttransfers":8}
+14:01:45.865889 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:45.865721: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+14:01:45.865965 trace git-lfs: xfer[transformers-cli]: 2020-11-24 14:01:45.865788: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+14:01:48.621814 trace git-lfs: xfer: Custom adapter worker 7 received response: {}
+14:01:48.621876 trace git-lfs: xfer: started custom adapter process "transformers-cli" for worker 7 OK
+14:01:48.621897 trace git-lfs: xfer: adapter "multipart" started
+14:01:48.621946 trace git-lfs: xfer: adapter "multipart" worker 7 starting
+14:01:48.622200 trace git-lfs: xfer: adapter "multipart" worker 7 waiting for Auth
+14:01:48.622174 trace git-lfs: xfer: adapter "multipart" worker 0 processing job for "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5"
+14:01:48.622475 trace git-lfs: xfer: Custom adapter worker 0 sending message: {"event":"upload","oid":"861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5","size":45230323704,"path":"/home/patrick/t5/t5-11b-ssm-nq/.git/lfs/objects/86/1f/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5","action":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=85d4ffee812dcdc16f04dae4708fb4ad9238f21e470b0baaadb63ef8df3fdd95\u0026X-Amz-SignedHeaders=host\u0026partNumber=1\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=563d37ecde0ef76905f315952592618500da13d904e0a4f6c793dd9a5bd5fb4c\u0026X-Amz-SignedHeaders=host\u0026partNumber=10\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=3f7e50787b6a720479842c3be6810dc8fa18445ce7f559e94ac95f54be8e513c\u0026X-Amz-SignedHeaders=host\u0026partNumber=2\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=4e99d648e326a486ac1ad95b7062694a8b56051594cde058b2b07e113c7bac50\u0026X-Amz-SignedHeaders=host\u0026partNumber=3\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=b6d8c280e78962c4af4565ccf41d71b0992c3c27c58adc2c7f45636a547636a1\u0026X-Amz-SignedHeaders=host\u0026partNumber=4\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=004758412b80e4dfa7a6b87ab23e4f61444ba1fd6ccc8d4dcab5267e472a7695\u0026X-Amz-SignedHeaders=host\u0026partNumber=5\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=0f417255b28007e2de762ae3ec214fc25da2c1ab2abd2a2a4189edc3ab9a065e\u0026X-Amz-SignedHeaders=host\u0026partNumber=6\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=0c718f1138dc2f6aae8f4c8ddd5850932a79653181d7a59419a2745e7d315522\u0026X-Amz-SignedHeaders=host\u0026partNumber=7\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=2434a31fd86d6a5c4ea9349fc0bf66f7a165e62c2815009633550af5ee4556b8\u0026X-Amz-SignedHeaders=host\u0026partNumber=8\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=088f695482b402d4621a97fda923d1f21ad7d55f27159b7a08a2cf244d68d999\u0026X-Amz-SignedHeaders=host\u0026partNumber=9\u0026uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn","chunk_size":"5000000000"},"expires_at":"0001-01-01T00:00:00Z","expires_in":3600}}
+14:04:05.137715 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 0, "bytesSinceLast": 5000000000}
+14:06:10.761005 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 5000000000, "bytesSinceLast": 5000000000}
+14:06:10.761324 trace git-lfs: xfer: adapter "multipart" worker 7 auth signal received
+14:06:10.761336 trace git-lfs: xfer: adapter "multipart" worker 7 processing job for "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656"
+14:06:10.761360 trace git-lfs: xfer: adapter "multipart" worker 3 auth signal received
+14:06:10.761417 trace git-lfs: xfer: adapter "multipart" worker 2 auth signal received
+14:06:10.761425 trace git-lfs: xfer: adapter "multipart" worker 5 auth signal received
+14:06:10.761416 trace git-lfs: xfer: adapter "multipart" worker 1 auth signal received
+14:06:10.761431 trace git-lfs: xfer: adapter "multipart" worker 6 auth signal received
+14:06:10.761439 trace git-lfs: xfer: adapter "multipart" worker 4 auth signal received
+14:06:10.761511 trace git-lfs: xfer: Custom adapter worker 7 sending message: {"event":"upload","oid":"1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656","size":45229523417,"path":"/home/patrick/t5/t5-11b-ssm-nq/.git/lfs/objects/1b/16/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656","action":{"href":"https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","header":{"1":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=28702525e98edafff1353d86a8be71bc8638f853616e43ad653de2214ab97691\u0026X-Amz-SignedHeaders=host\u0026partNumber=1\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","10":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=2abbc0dd6067b893dafba7cca6ce7c13ec1c5b17ee0543e5e01e9c5a3a5988b8\u0026X-Amz-SignedHeaders=host\u0026partNumber=10\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","2":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=86dccbab48bc820a97763a11c2a6204d0a2979be4c92aaf9b7de0d35cb6f5f36\u0026X-Amz-SignedHeaders=host\u0026partNumber=2\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","3":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=1efc4a2a122ebd7bf2f3befa1c3d34f6b839d1e1ca3f80f5577023959a77141f\u0026X-Amz-SignedHeaders=host\u0026partNumber=3\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","4":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=12810b39774a4d0805b5c089ee0161504e61a5da3083967f8f43e44fee7bd6ad\u0026X-Amz-SignedHeaders=host\u0026partNumber=4\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","5":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=672291584f08163ed14d1e2344375e6a69b64861661035ce6de5729006f1e327\u0026X-Amz-SignedHeaders=host\u0026partNumber=5\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","6":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=1ec9dbf25d495dcb445968d8f8a8a0b0c274db9b8142f07e186b3c585c343e39\u0026X-Amz-SignedHeaders=host\u0026partNumber=6\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","7":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=4f9451f2f03c38271c5eca8340ba97f367871ee7ddfb9232fe85c8d8876508e6\u0026X-Amz-SignedHeaders=host\u0026partNumber=7\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","8":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=5ab27d3d68982fddca5a5f1bdb4046325b700afac8559d5d1ca2e951de6c5893\u0026X-Amz-SignedHeaders=host\u0026partNumber=8\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","9":"https://s3.amazonaws.com/lfs.huggingface.co/google/t5-11b-ssm-nq/1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIA4N7VTDGOZQA2IKWK%2F20201124%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20201124T140119Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=3020ce033431f8c1410a6fcb4f0ab9839e99d7de3f302209b7bdccb173d6201b\u0026X-Amz-SignedHeaders=host\u0026partNumber=9\u0026uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r","chunk_size":"5000000000"},"expires_at":"0001-01-01T00:00:00Z","expires_in":3600}}
+14:08:50.131780 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 10000000000, "bytesSinceLast": 5000000000}
+14:09:18.952633 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 0, "bytesSinceLast": 5000000000}
+14:12:22.927170 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 5000000000, "bytesSinceLast": 5000000000}
+14:13:36.487652 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 15000000000, "bytesSinceLast": 5000000000}
+14:14:16.000680 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 10000000000, "bytesSinceLast": 5000000000}
+14:17:16.504117 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 20000000000, "bytesSinceLast": 5000000000}
+14:17:23.933275 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 15000000000, "bytesSinceLast": 5000000000}
+14:19:10.588718 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 25000000000, "bytesSinceLast": 5000000000}
+14:20:10.345238 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 20000000000, "bytesSinceLast": 5000000000}
+14:21:42.045866 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 30000000000, "bytesSinceLast": 5000000000}
+14:22:01.147558 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 25000000000, "bytesSinceLast": 5000000000}
+14:24:05.432279 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 35000000000, "bytesSinceLast": 5000000000}
+14:24:40.517225 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 30000000000, "bytesSinceLast": 5000000000}
+14:25:56.240572 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 40000000000, "bytesSinceLast": 5000000000}
+14:25:59.211875 trace git-lfs: xfer: Custom adapter worker 0 received response: {"event": "progress", "oid": "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5", "bytesSoFar": 45000000000, "bytesSinceLast": 5000000000}
+14:26:42.199156 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 35000000000, "bytesSinceLast": 5000000000}
+14:26:59.459737 trace git-lfs: xfer[transformers-cli]: Traceback (most recent call last):
+14:26:59.459836 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/hugging_face/bin/transformers-cli", line 33, in <module>
+14:26:59.459843 trace git-lfs: xfer[transformers-cli]: sys.exit(load_entry_point('transformers', 'console_scripts', 'transformers-cli')())
+14:26:59.459847 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/python_bin/transformers/commands/transformers_cli.py", line 37, in main
+14:26:59.459874 trace git-lfs: xfer[transformers-cli]: service.run()
+14:26:59.459878 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/python_bin/transformers/commands/lfs.py", line 217, in run
+14:26:59.459909 trace git-lfs: xfer[transformers-cli]: r.raise_for_status()
+14:26:59.459914 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/hugging_face/lib/python3.7/site-packages/requests/models.py", line 943, in raise_for_status
+14:26:59.459917 trace git-lfs: xfer[transformers-cli]: raise HTTPError(http_error_msg, response=self)
+14:26:59.459932 trace git-lfs: xfer[transformers-cli]: requests.exceptions.HTTPError: 504 Server Error: Gateway Time-out for url: https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=tncifaLe1YgVPVmcIqwQlKvXhY0kEgiaYeFwODK.rvYyAk15_RoyvoNvGYHhATn0GpoaUSWf9.zdFYg0m59l1svHfksuXlRtsEHLpL1_LaJtkwnFG19C4DkslyDpxHhn
+14:27:00.136725 trace git-lfs: xfer: adapter "multipart" worker 0 finished job for "861f495721b6a02df2f4e9ca7997078aceac821578e4e8b97b58ead1081c52d5"
+14:29:24.178690 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 40000000000, "bytesSinceLast": 5000000000}
+14:29:27.895846 trace git-lfs: xfer: Custom adapter worker 7 received response: {"event": "progress", "oid": "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656", "bytesSoFar": 45000000000, "bytesSinceLast": 5000000000}
+14:30:28.151566 trace git-lfs: xfer[transformers-cli]: Traceback (most recent call last):
+14:30:28.151621 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/hugging_face/bin/transformers-cli", line 33, in <module>
+14:30:28.151655 trace git-lfs: xfer[transformers-cli]: sys.exit(load_entry_point('transformers', 'console_scripts', 'transformers-cli')())
+14:30:28.151659 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/python_bin/transformers/commands/transformers_cli.py", line 37, in main
+14:30:28.151663 trace git-lfs: xfer[transformers-cli]: service.run()
+14:30:28.151667 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/python_bin/transformers/commands/lfs.py", line 217, in run
+14:30:28.151670 trace git-lfs: xfer[transformers-cli]: r.raise_for_status()
+14:30:28.151675 trace git-lfs: xfer[transformers-cli]: File "/home/patrick/hugging_face/lib/python3.7/site-packages/requests/models.py", line 943, in raise_for_status
+14:30:28.151679 trace git-lfs: xfer[transformers-cli]: raise HTTPError(http_error_msg, response=self)
+14:30:28.151683 trace git-lfs: xfer[transformers-cli]: requests.exceptions.HTTPError: 504 Server Error: Gateway Time-out for url: https://huggingface.co/google/t5-11b-ssm-nq.git/info/lfs/objects/complete_multipart?uploadId=GiGVkJMqS1EPyF0Sm6KXHSbOTSI2JC60hSzzCSDKZVX2R4K.2k1wlK6HYQ2KxubbZ5ZchNGdBERkNIBbrmZLfeatAoCWF19e1XYg9unNyCZVIfFzZll_VG9PJMk6__5r
+14:30:28.802682 trace git-lfs: xfer: adapter "multipart" worker 7 finished job for "1b168edbde19f36bdc0e1aba369dcafa0db019e41f838202fb33c11fd4ce3656"
+14:30:28.802748 trace git-lfs: xfer: adapter "multipart" End()
+14:30:28.802832 trace git-lfs: xfer: adapter "multipart" worker 6 stopping
+14:30:28.802845 trace git-lfs: xfer: Shutting down adapter worker 6
+14:30:28.802815 trace git-lfs: xfer: adapter "multipart" worker 3 stopping
+14:30:28.802857 trace git-lfs: xfer: Shutting down adapter worker 3
+14:30:28.802900 trace git-lfs: xfer: adapter "multipart" worker 4 stopping
+14:30:28.802927 trace git-lfs: xfer: Shutting down adapter worker 4
+14:30:28.802857 trace git-lfs: xfer: adapter "multipart" worker 0 stopping
+14:30:28.802888 trace git-lfs: xfer: adapter "multipart" worker 5 stopping
+14:30:28.802991 trace git-lfs: xfer: Shutting down adapter worker 5
+14:30:28.802948 trace git-lfs: xfer: adapter "multipart" worker 7 stopping
+14:30:28.802948 trace git-lfs: xfer: adapter "multipart" worker 2 stopping
+14:30:28.803063 trace git-lfs: xfer: Shutting down adapter worker 2
+14:30:28.803013 trace git-lfs: xfer: Shutting down adapter worker 7
+14:30:28.803122 trace git-lfs: xfer: Custom adapter worker 4 sending message: {"event":"terminate"}
+14:30:28.803008 trace git-lfs: xfer: adapter "multipart" worker 1 stopping
+14:30:28.803184 trace git-lfs: xfer: Shutting down adapter worker 1
+14:30:28.803142 trace git-lfs: xfer: Custom adapter worker 2 sending message: {"event":"terminate"}
+14:30:28.803214 trace git-lfs: xfer: Custom adapter worker 1 sending message: {"event":"terminate"}
+14:30:28.803246 trace git-lfs: xfer: Custom adapter worker 6 sending message: {"event":"terminate"}
+14:30:28.802962 trace git-lfs: xfer: Shutting down adapter worker 0
+14:30:28.803264 trace git-lfs: xfer: Custom adapter worker 7 sending message: {"event":"terminate"}
+14:30:28.803393 trace git-lfs: xfer: Custom adapter worker 3 sending message: {"event":"terminate"}
+14:30:28.803486 trace git-lfs: xfer: error finishing up custom transfer process "transformers-cli" worker 7, aborting: write |1: broken pipe
+14:30:28.803531 trace git-lfs: xfer: Aborting worker process: 7
+14:30:28.803547 trace git-lfs: xfer: Custom adapter worker 5 sending message: {"event":"terminate"}
+14:30:28.804066 trace git-lfs: xfer: Custom adapter worker 0 sending message: {"event":"terminate"}
+14:30:28.804234 trace git-lfs: xfer: error finishing up custom transfer process "transformers-cli" worker 0, aborting: write |1: broken pipe
+14:30:28.804420 trace git-lfs: xfer: Aborting worker process: 0
+14:30:29.813190 trace git-lfs: xfer: adapter "multipart" stopped
+EOF
+EOF
+Uploading LFS objects:   0% (0/2), 100 GB | 252 MB/s, done.
+error: failed to push some refs to 'https://huggingface.co/google/t5-11b-ssm-nq'
